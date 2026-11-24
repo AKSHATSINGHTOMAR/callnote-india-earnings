@@ -1,0 +1,12 @@
+# Callnote — India Earnings Call Transcripts
+
+Full verbatim earnings call transcripts (static plain text, no JavaScript required):
+
+- [Aditya Infotech Limited — Q2 and H1 FY27 earnings call (Nov 6, 2026)](https://akshatsinghtomar.github.io/callnote-india-earnings/transcripts/aditya-infotech-q2-fy27.txt)
+- [Yash Highvoltage Limited — H1 FY27 earnings call (Oct 21, 2026)](https://akshatsinghtomar.github.io/callnote-india-earnings/transcripts/yash-h1-fy27.txt)
+- [SG Finserve Limited — Q2 and H1 FY27 earnings call (Oct 16, 2026)](https://akshatsinghtomar.github.io/callnote-india-earnings/transcripts/sg-finserve-q2-fy27.txt)
+- [HFCL Limited — Q2 and H1 FY27 earnings call (Oct 19, 2026)](https://akshatsinghtomar.github.io/callnote-india-earnings/transcripts/hfcl-q2-fy27.txt)
+- [Cyient DLM Limited — Q2 FY27 earnings call (Oct 15, 2026)](https://akshatsinghtomar.github.io/callnote-india-earnings/transcripts/cyient-dlm-q2-fy27.txt)
+- [GE Vernova T&D India Limited — Q2 and H1 FY27 earnings call (Oct 30, 2026)](https://akshatsinghtomar.github.io/callnote-india-earnings/transcripts/ge-vernova-td-india-q2-fy27.txt)
+- [Rossell Techsys Limited — Q2 and H1 FY27 earnings call (Nov 6, 2026)](https://akshatsinghtomar.github.io/callnote-india-earnings/transcripts/rossell-techsys-q2-fy27.txt)
+- [Vintage Coffee and Beverages Limited — Q2 and H1 FY27 earnings call (Nov 4, 2026)](https://akshatsinghtomar.github.io/callnote-india-earnings/transcripts/vintage-coffee-q2-fy27.txt)

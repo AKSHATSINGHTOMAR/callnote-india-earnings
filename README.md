@@ -20,12 +20,12 @@ The included recordings and transcript PDFs are local files under `calls/`, so t
 
 ## Included calls
 
+- Aditya Infotech Limited — Q2 and H1 FY27 earnings call, 6 November 2026. The [official investor call page](https://adityagroup.com/earning-investor-call) provides the [company recording](https://adityagroup.com/uploads/investor/statutorycommunications/earninginvestorcall/Audio_recording_06_11_2026.mp3) and [official transcript PDF](https://adityagroup.com/uploads/investor/statutorycommunications/earninginvestorcall/Earnings_Call_Transcript_06_11_2026.pdf). Word-level sync matched 90.2% of words directly (9.8% interpolated).
 - Yash Highvoltage Limited — H1 FY27 earnings call, 21 October 2026. Official investor page: [yashhv.com](https://www.yashhv.com/investor-portal/investor-presentation-press-notes-and-newspaper-publication).
 - SG Finserve Limited — Q2 and H1 FY27 earnings call, 16 October 2026. Official investor page: [sgfinserve.com](https://www.sgfinserve.com/schedule-analyst).
 - HFCL Limited — Q2 and H1 FY27 earnings call, 19 October 2026. The [official announcement](https://www.hfcl.com/investors/announcements) links to the company recording; the [official transcript](https://www.hfcl.com/investors/financial-info) is available on HFCL's financial information page.
 - Cyient DLM Limited — Q2 FY27 earnings call, 15 October 2026. The [official investor page](https://www.cyientdlm.com/investors/) links to the company recording and transcript.
 - GE Vernova T&D India Limited — Q2 and H1 FY27 earnings call, 30 October 2026. The [official investor page](https://www.gevernova.com/regions/asia/in/gevernova-td-india/investors) and [company recording](https://www.gevernova.com/gev/sites/default/files/2026-10/recording.mp3) provide the audio. The [Quartr transcript](https://stockanalysis.com/quote/bom/522275/transcripts/715808-q2-26-27/) is hosted by StockAnalysis while the company transcript PDF is pending.
-- Rossell Techsys Limited — Q2 and H1 FY27 earnings call, 6 November 2026. The [company shareholder page](https://rosselltechsys.com/investor-relations/shareholder-information/) provides the recording. The player transcript is generated from that audio and its speaker labels are mapped to the public [Quartr transcript hosted by StockAnalysis](https://stockanalysis.com/quote/nse/ROSSTECH/transcripts/766998-q2-26-27/); no company transcript PDF was available when added.
 
 Original audio and available company PDFs are in [calls/](calls/). The browser loads the local audio files and pre-extracted transcript lines from `calls/calls-data.js`.
 

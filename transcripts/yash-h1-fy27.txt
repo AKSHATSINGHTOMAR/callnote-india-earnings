@@ -1,0 +1,563 @@
+# Yash Highvoltage Limited — H1 FY27 earnings call
+Ticker: YASHHV · BSE
+Date: Oct 21, 2026
+Interactive audio player: https://akshatsinghtomar.github.io/callnote-india-earnings/
+Official source: https://www.yashhv.com/investor-portal/investor-presentation-press-notes-and-newspaper-publication
+Transcript PDF: https://akshatsinghtomar.github.io/callnote-india-earnings/calls/yash-highvoltage-h1-fy27-transcript.pdf
+
+--- FULL VERBATIM TRANSCRIPT ---
+
+[00:00] Moderator (Call moderator):
+Ladies and gentlemen, good day and welcome to the H1 FY27 Earnings Conference Call of Yash Highvoltage Limited. As a reminder, all participants' line will be in the listen-only mode, and there will be an opportunity for you to ask questions after the presentation concludes. Should you need assistance during this conference call, please signal an operator by pressing star then zero on your touch-tone phone. Before we proceed, this conference call may contain forward-looking statements about the company, which are based on the beliefs, opinions, and expectations of the company as on the date of this call. These statements are not the guarantee of the future performance and involve risks and uncertainties that are difficult to predict. I now hand the conference over to Mr. Keyur Shah, Chairman and Managing Director from Yash Highvoltage Limited. Thank you and over to you, sir.
+
+[00:54] Keyur Shah (Chairman and Managing Director):
+Thank you so much, madam. Good evening, everyone, and a very warm welcome to Yash Highvoltage's Earnings Conference Call for the first half ended September '26. I am joined today by Mr. Darshan Thakkar, our Executive Director, Finance; Mr. Nirav Patel, Executive Director, Global Business; and Mr. Mitanshu Shah, our Strategic Advisor. Our financial results, investor presentation, and press release have been uploaded to the stock exchange and our website. I trust you have had an opportunity to review these documents. H1 '27 marked a period of operational and strategic progress for the company with key developments across international expansion, product capabilities, greenfield facility operations, and internal systems strengthening our foundation for future growth. Before discussing our progress for the period, I would like to briefly touch upon the industry outlook, which remains an important focus market for us. The global power transmission and distribution industry continues to witness structural demand drivers, including grid modernization, replacement of aging infrastructure, renewable energy integration, and rising electricity consumption. The growing requirements of data centers, digital infrastructure, and industrial electrification are further reinforcing the need for reliable and efficient power networks. Transformer bushings are critical components within this ecosystem, ensuring safe electrical connections between the transformers and external circuit. As utilities and transformer manufacturers focus on reliability, performance, and high-voltage applications, the demand for technically qualified and dependable bushing suppliers remains very important. For the company, these developments present opportunities across domestic and international markets, supported by our product capabilities, customer relationships, and ongoing expansion into high-voltage applications. I would also like to give some strategic highlights. Our strategic priorities remain centered on expanding our international outreach, enhancing our technical credentials, and investing in capabilities that can support sustainable growth over the coming years. In the United States, our subsidiary, Yash HV USA, has entered into representation agreements with Ensales Electrical Associates, Gateway Power Sales, and EHV Solutions LLC. Together, these agreements extend our representation footprint to close to 27 states. This is an important step in strengthening our engagement with utilities, transformer OEMs, and other prospective customers. A wider local network should help us improve customer access, support product approval, and build relationships over time. We see these agreements as an important part of our broader effort to establish a stronger presence in the US market. We also achieved a significant technical milestone with successful completion of stringent seismic qualification testing for our IEEE compliant 138 and 230 kV OIP condenser transformer bushings. The company has become the first Indian OEM and one of a select group of global OEMs to achieve this qualification. This milestone reinforces our capabilities to serve customers in North and South American regions. The planned expansion of RIP bushing capabilities up to 550 kV is on track and intended to broaden our addressable product range and to enable us to cater to more demanding customer requirements globally. The greenfield facility at Jarod is an important element of this ambition, and our focus will remain on translating the investments made into common meaningful capabilities through a disciplined ramp-up. During the period, we completed a preferential allotment of equity shares and warrants aggregating to approximately 151 crores from marquee investors like Malabar Investment, WhiteOak, Motilal Oswal, ValueQuest, and Anantroop to name a few. Of this, 90.99 crores was received from the allotment of equity shares, and 15 crores was received upfront against warrants, taking the total fund received to approximately 106 crores. The balance amount payable against the warrants will be received upon conversion/exercise within the applicable 18-month period. The proceeds will support the company's growth plan and ongoing capacity expansion initiatives. On the operational front, during the first half, we continue to strengthen our product and execution capabilities while taking important steps toward expanding our manufacturing footprints. We successfully tested our first 245 kV wall-through transformer bushing in-house and supplied the product to a leading public sector undertaking. This marks a meaningful addition to our product portfolio and demonstrates our growing design, testing, and execution capability in the high-voltage applications. We also successfully migrated to SAP S/4HANA globally while maintaining business continuity through the transition. This is an important step in strengthening our operating systems, improving process visibility, and supporting better coordination across business functions as the company grows in scale and complexity. These operational developments provide a foundation for the next phase of our growth, alongside strengthening our manufacturing and execution capabilities. We have also made progress in expanding our market access and improving our readiness to serve specialized international applications. With that, I would now like to hand over the call to Mr. Darshan Thakkar, our Executive Director, Finance, who will take you through our financial performance and business position. Over to you, Darshan.
+
+[06:15] Darshan Thakkar (Executive Director, Finance):
+Thank you, Mr. Shah. Good evening, everyone, and a warm welcome once again to Yash Highvoltage Limited's H1 earnings call. For H1 FY27, revenue from operations stood at INR194.5 crores compared to INR99.6 crores in H1 FY26, reflecting a year-on-year growth of 95%. Revenue was primarily driven by the domestic market, which accounted for 95% of sales, while exports contributed to 5%. By product category, RIP bushings accounted for 86% of the revenue, while OIP and high-current bushings contributed to 14%. Within the domestic sales, the contribution of the retrofit and services business has doubled from 4% to 8% year-on-year. Gross margin for H1 FY27 was 48.3% compared with 42.4% in H1 of previous year. Product mix and operating leverage, which is a combination of volume increase of close to 40%, better price realization, and cost efficiency measures, were the main contributors to the improved gross profit margins. EBITDA for the period stood at INR55 crores vis-a-vis INR23 crores in the corresponding period of the previous year, translating to a growth of 139% yearon-year. The EBITDA margin improved from 23.3% to 28.1% year-on-year. PAT for the period is INR36 crores vis-a-vis INR14 crores in H1 of FY26, translating to a growth of 157% year-on-year. The PAT margins improved from 13.7% to 18.6% year-on-year. On the order book, as on 30th September 2026, our order book stands at INR760 crores, up from INR400 crores at the start of the financial year, providing healthy visibility for future execution. The order book is expected to be executed over the next 15 to 18 months. The cash conversion cycle stands at 63 days as on 30th September '26 compared to 81 days for the full year ended FY26 with focused and tighter controls on business operations. The total capex planned for the greenfield project is INR220 crores, of which INR106 crores is spent till 30th September '26, and the balance is expected to be deployed over the next 12 months. The net cash position stands at INR95 crores as on 30th September '26. With this, I would like to conclude and open the floor for questions from our esteemed participants.
+
+[08:57] Moderator (Call moderator):
+Thank you very much. Ladies and gentlemen, we will now begin with the question-and-answer session. The first question is from the line of Sanjay A from Elara Capital. Please go ahead.
+
+[09:35] Sanjay A:
+Yes, thank you for giving me this opportunity. Good evening. I would like to ask that, can we simplify the current market share over in the domestic markets and the global markets? And what is the market share we are targeting in the next 5 years for domestic as well as global? Thank you.
+
+[09:57] Keyur Shah (Chairman and Managing Director):
+Yes, thank you. Thank you for the question. On the global front, we would still not be almost around 1% or 1.2% of the global market demand. And at India, we would still be leading with the presence in the Indian domestic sector. We should be increasing our position further in India with the addition of 420 kV and hopefully we would want to maintain the leadership in India for a couple of more years. On the global front, we aspire to increase our market share substantially and to at least capture 5% in next 4 to 5 years.
+
+[10:45] Sanjay A:
+Okay, thank you so much for this answer. That's all from my end. Thank you so much.
+
+[10:51] Keyur Shah (Chairman and Managing Director):
+Thank you.
+
+[10:53] Moderator (Call moderator):
+Thank you. The next question is from the line of Vaibhav Mishra from Finvestors Research. Please go ahead.
+
+[11:10] Vaibhav Mishra:
+Hello, sir. Congratulations for the blockbuster numbers. Sir, my question is regarding the EBITDA margins that we have achieved around, I think over 28%. In the last call, I think we were targeting around 25% in FY27 and further improvement in '28. But since in H1, we have achieved 28%, so could you please tell what drove this margin to 28% and are these margins sustainable going into H2 and what kind of margins can we expect in '28, FY28?
+
+[11:46] Keyur Shah (Chairman and Managing Director):
+Okay. We were informing about the increase in the EBITDA. So thanks to our sales and marketing team and our operations team for getting the right sort of product mix and to ensure the profitability improvement and also the operational efficiency of our factory team to be able to manage the material on time and in better way, in better terms from our vendors. For sure, the economies of scale is also helping us with the increased revenue as the overheads over a point gets limited.
+
+[12:22] Vaibhav Mishra:
+So we can expect this in H2 as well as going ahead into FY28 with slight improvement, correct?
+
+[12:31] Keyur Shah (Chairman and Managing Director):
+Yes, our efforts are to make it better and better or at least maintain it. That's our effort and we see there is no otherwise reason for us to worry.
+
+[12:41] Vaibhav Mishra:
+That's great, sir. And sir my other question will be regarding the commercial production of our Greenfield facility. Has it started for 230 kV and what kind of revenue can we expect in FY27 and FY28 from this? And sir, Brownfield expansion that we were targeting to complete by December is that on track?
+
+[13:02] Keyur Shah (Chairman and Managing Director):
+Yes, so both projects are on track and the Brownfield project should get end by the third quarter. And in the last quarter we should be able to see some increased capacity from the Brownfield project. And the existing work at the Greenfield facility has already, we have already begun the invoicing and slowly and slowly, we are trying to divert orders to this factory from our existing order book. Also, the trial runs are giving us very much encouraging results on our localized RIP. So soon we should also be able to send our bushings for type test. So far so good. Everything is going on track and as expected. No unpleasant surprises.
+
+[13:50] Vaibhav Mishra:
+Great to know sir. And sir, last question regarding order intake for FY27. I think we initially planned INR500 crores plus, but I think we are close to that number already. So any revised order inflow guidance for FY27, especially after the GEC- III, that Green Energy Corridor, announcement by the government?
+
+[14:10] Keyur Shah (Chairman and Managing Director):
+I am not connecting myself to any circular from the government, but in general as a bushing player we are seeing increased order inflow from all sorts of customers in India also and abroad also and that's the reason our numbers are much more than what we were originally targeting. And we are happy with this order book and we are making sure that this order book is also, we are also able to deliver on time and as per the schedule requirement from the customer. Next 15 to 18 months or it maybe say 18 to 20 months, we see this existing order book should help us to navigate and till then, we will also book new orders.
+
+[14:54] Vaibhav Mishra:
+All right, sir. Thank you so much, sir and all the best for the future quarters and once again, congratulations for the very, very good set of numbers.
+
+[15:02] Keyur Shah (Chairman and Managing Director):
+Thank you so much, sir. Thank you, sir.
+
+[15:05] Moderator (Call moderator):
+Thank you. The next question is from the line of Vineet from Toro Wealth Managers. Please go ahead.
+
+[15:12] Vineet:
+Hello sir, good evening. First of all, a very big congratulations for the excellent set of results. Sir out of many surprises in the H1 results, my question was with respect to the margins. Without any meaningful integration of the core manufacturing, we were able to do a 27% to 28% of margins with the help of product mix as Darshan sir stated and the price environment as well. Sir, can we envisage a 32% to 35% sort of margin probably once this core integration gets ramped up? I know you have given a guidance of 30%, but since we are there without any meaningful integration?
+
+[15:53] Keyur Shah (Chairman and Managing Director):
+First of all, thank you very much for your good wishes and compliments to our team and Yash. And honestly, sir, I would not want to make any tall commitments. We would want to – we want to do better each and every year, but I don't want to give any specific guideline on what sort of numbers can come in future. It is not right on my part to speak on this. But yes, in general, we would want to do better than what we have been committing and that's our honest effort each and every time. And sooner or later we will also be able to exactly know what sort of margin expansion come with the localized production. We have got reasonable idea, but not that much that I can make a commitment today. I would want to see and then make commitment.
+
+[16:43] Vineet:
+No, understood, sir. It's fair on your side as well. Sir, also the point that you mentioned that 86% of the product mix was RIP-based, right? Firstly, was it a volume 86% of volume or 86% of value? And second considering the inquiries and the orders in hand, should we expect that this ratio between RIP and OIP shall remain in this line going forward as well?
+
+[17:13] Keyur Shah (Chairman and Managing Director):
+Yes, so 86% is for the value part and the volume part is close to 40% because more number of higher-voltage bushings are going. So the value is increasing, but vis-a-vis, the number of bushings is not exactly reciprocating in that ways. And going forward, we believe that the ratio would definitely change once we start exporting bushings from India. Till now, whatever is happening is as per our trend which we were doing and I believe that from the next year mid, we should be able to start booking export orders and that will probably change the landscape going forward from '28-'29.
+
+[17:58] Vineet:
+Understood, sir. And sir, if you can please give a quantity regarding the production in H1, that would be helpful, RIP versus OIP?
+
+[18:09] Keyur Shah (Chairman and Managing Director):
+At the moment, I might not have very handy. Give me 5 minutes, 7 minutes. I'll get it on my desk and I can give.
+
+[18:17] Vineet:
+Sure, sir.
+
+[18:18] Keyur Shah (Chairman and Managing Director):
+I have some numbers. Yes Darshan let him cover because I don't want to make, but close to 1,500 OIP and close to 2,200 RIP.
+
+[18:29] Vineet:
+Understood, sir. Thank you so much, sir. That's it from our side. All the best, sir.
+
+[18:35] Keyur Shah (Chairman and Managing Director):
+Thank you, sir.
+
+[18:38] Moderator (Call moderator):
+Thank you. The next question is from the line of Gaurav Nigam from Tunga Investments. Please go ahead.
+
+[18:46] Gaurav Nigam:
+Thank you for taking my question, Keyur bhai. Sir I have two questions. My first question is I wish to understand ultimate end use of our products and how it has changed. I mean, our products go into the transformer, which are used for grid modernization as well as I think you had earlier mentioned that we are also exploring the energy storage and data center applications as well. So, I wish to understand how is our current revenue driven by this non-grid modernization and evolved over the last few years?
+
+[19:21] Keyur Shah (Chairman and Managing Director):
+Thank you. See the bushings will be installed on a power transformer and the power transformer can be used for a transmission line also, it can be used for a renewable application also or it can be used for a power generation also or it can be used for a data center also. So our supplies happen to the transformer company and from the transformer company, sometimes the end user may be of any of this one. We are seeing increasing number of bushings for transformers which are going for renewable and for data centers also. But, of course, the transmission sector is also very much dominating still majority of the transformers we still see are going for the transmission line infrastructure.
+
+[20:13] Gaurav Nigam:
+Got it, sir. Thank you, sir. And just a related question on the overall component, transformer component industry. In the last 1 year we saw, I mean, the government relaxing some supply chain to Chinese players. Wanted to get a sense from you, has this caused any impact on the component supply industry for the transformer industry in any way and how do you see it going forward, sir?
+
+[20:42] Keyur Shah (Chairman and Managing Director):
+See these transformer components were never banned from China. Capital equipments like transformers were banned and the components were always open. We saw negligible effect from Chinese. Sometimes Chinese come maybe a quarter or two, they become very aggressive and they come and start disrupting prices. And then maybe after a while, they are not that way, that aggressive. They also have their strategies and their thoughts for India. I would not want to give an exact position, but till today, I can say historically component players were not much affected by the Chinese as compared to the capital equipment manufacturers.
+
+[21:35] Gaurav Nigam:
+Understood, sir. Thank you, Keyur bhai for answering my question. Thank you.
+
+[21:40] Keyur Shah (Chairman and Managing Director):
+Yes, sir. Thank you.
+
+[21:41] Moderator (Call moderator):
+Thank you. The next question is from the line of Naman Parmar from Niveshaay Investments. Please go ahead.
+
+[21:50] Naman Parmar:
+Good evening, sir. Many, many congratulations to all the Yash team for the great set of numbers. Sir firstly I wanted to understand, there is a very big change in the gross margin, right? So how much it would be related to increase in the realization and how much would be to the volume, if you can help in bifurcating that?
+
+[22:12] Keyur Shah (Chairman and Managing Director):
+I will tell you, it is a combination of realization also and it is also combination of new product developments also. We have been able to deliver new products which were not there in the previous year. So that also is bringing a different set of profitability. I won't be able to give a complete split between what is bringing what, but generally I can say that the right product mix, new product development and of course, the price amendments also from the customer, that all is helping. The market demand is also allowing us to get some good prices.
+
+[22:47] Naman Parmar:
+Okay, got it. Secondly on the industry only like currently how will be the lead time on the -- specifically on the export market compared to the domestic market like you have been very great on expanding various markets on the US. You have done various tie-ups also in a lot of states as well, right? So currently how would be the lead time over there?
+
+[23:12] Keyur Shah (Chairman and Managing Director):
+So our representation agreements have just got concluded couple of weeks back and we would see the actual result maybe after couple of months. For now, we are having a healthy order book already from the US customers, but going forward, and those are with timelines of between 6 months to 12 months or 15 months spread, that orders we are having. We understand that what they are getting locally is much more higher lead time than what we are able to offer. And our own lead times are also increasing dayby-day. We are hoping to improve it and better it once the Brownfield expansion gets over. This I am talking of OIP, because RIP we have still not exported. So, for sure we would be ready with our capacity and to address the market by the end of or the mid of the next year.
+
+[24:04] Naman Parmar:
+So how much percentage would be this export order book?
+
+[24:08] Moderator (Call moderator):
+Sorry to interrupt you, Mr. Parmar.
+
+[24:10] Naman Parmar:
+Sorry it's only related to current question only.
+
+[24:13] Moderator (Call moderator):
+Okay no problem.
+
+[24:15] Naman Parmar:
+How much would be the order book from the export?
+
+[24:21] Keyur Shah (Chairman and Managing Director):
+Maybe 5% to 7% today. INR40-odd crores, INR40 crores to INR50 crores today. Out of INR700-odd crores.
+
+[24:32] Naman Parmar:
+Okay, got it, yes. Thank you so much for answering.
+
+[24:37] Moderator (Call moderator):
+Thank you. The next question is from the line of Abhisar Jain from Monarch AIF. Please go ahead.
+
+[24:50] Abhisar Jain:
+Yes. Hi, sir and many, many congratulations for a great performance in H1. Sir, my question is related to the development of the core that is currently underway. So just wanted to know that in that process, how is our initial experience of developing this in India and how confident are we? And also, sir, in terms of, I understand that we have a set base of core suppliers right now and we might want to phase our core supplies and balance between external core sourcing and our own core sourcing, even if it gets developed in one go right. Would you want to comment anything on how this progress will be in the next few quarters or 1 year or so?
+
+[25:52] Keyur Shah (Chairman and Managing Director):
+Thanks, Abhisar-ji. We are very happy that the commercial production from the new unit has started for the assembly model, which we were doing earlier. And the initial results of our localized core have been very, very, very encouraging. And we are just keeping our fingers crossed that in next couple of weeks we should be able to send the bushings for type test with satisfactory result, which would be needed for us to send the bushings for type test. And we see that the initial results in the first go itself were very, very, very encouraging. And our teams and foreign team, they are all both working day and night for this. And soon we are expecting next couple of weeks to send the bushings for type test and the final validation from an external laboratory. And as far as your second question was on the imports, yes, we would want to continue the imports for a while because our own capacity would also not be sufficient for us to meet the increasing demand, not only in India, but globally. Of course, the Indian demand is also huge. So even with our own course, we would still be needing imported coal and we would be maintaining this combination of local and imported coal for next couple of years.
+
+[27:14] Abhisar Jain:
+Understood, sir. And sir, just the second question. I was very encouraged to see a very good operating cash flow number in H1, but just wanted to know that since there is decent enough disturbance on the geopolitical side and also on the logistics front, it's not so easy. So how is the situation currently in terms of sourcing of key raw material? I also see that inventories have not increased much, though our top line has increased quite significantly. Are we all comfortable there considering our order book currently and how are you managing that front?
+
+[27:54] Keyur Shah (Chairman and Managing Director):
+We don't see any supply chain disruption or any supply chains causing problems in our invoicing for the next couple of months. As of now everything is good to go.
+
+[28:09] Abhisar Jain:
+Great, sir. Great. Thank you so much, sir and best wishes to the Yash team.
+
+[28:14] Keyur Shah (Chairman and Managing Director):
+Thank you.
+
+[28:15] Moderator (Call moderator):
+Thank you. The next question is from the line of Ambrish Shah from Choice Consultancy. Please go ahead.
+
+[28:24] Ambrish Shah:
+Thank you. Thank you for the opportunity. Congratulations for the entire Yash team on good set of numbers.
+
+[29:00] Moderator (Call moderator):
+Ambrish, sorry to interrupt you, we can't hear you. Ambrish?
+
+[29:01] Ambrish Shah:
+Yes. Thank you for the opportunity and many, many congratulations to the entire Yash team on good set of numbers. So my first question is on capacity utilization. So what was the capacity utilization rate in 1H and what are we targeting going forward?
+
+[29:13] Keyur Shah (Chairman and Managing Director):
+So maybe close to 90% capacity from the existing unit at Halol has been utilized. And the new facility we have been able to use two departments, the assembly and the testing hall and the existing facility is still running full three shifts and the new facility also now the numbers would ramp up in the second part of the year. And the existing factory would surely be fully utilized. I don't see any reason why we should be able to leave a single bushing not invoiced from the existing facility. And the new facility, yes, the localized core invoicing would take a while, but the assembly model would go very strongly from the H2 itself. Probably that's the reason our numbers are also increasing. If you see, we have been able to utilize the new unit for assembly and testing, which has also helped us to resolve the bottleneck from the existing facility.
+
+[30:22] Ambrish Shah:
+Right. Got it. And my second question was on the PAT margin. So, given the have higher depreciation from capacity expansion, so our PAT margin in FY26 was 15.5%. And how should we look at it going forward? Earlier, I think we were targeting 14% because of higher depreciation.
+
+[30:43] Keyur Shah (Chairman and Managing Director):
+Yes. So, Darshan would answer this. Yes, Darshan bhai.
+
+[30:47] Darshan Thakkar (Executive Director, Finance):
+So, depreciation, typically, we have put to use a bulk of our investment only in the month of September, and hence, from a company law perspective, the depreciation is only there for one particular month in the H1. The total depreciation, of course, has gone up from INR2.6 crores in previous H1 to INR4.4 crores. A bulk of it will actually flow into the second half of the year. So, like we had maintained, we might want to still maintain the PAT margin in spite of a higher depreciation, which will be close to 2.5 times or 3 times of what we did last year, the depreciation amount. But in spite of that, we would like to maintain our profit margins as last year.
+
+[31:29] Ambrish Shah:
+Okay. Got it, sir. Thank you so much for answering my questions. I will join back the queue, and all the best.
+
+[31:36] Darshan Thakkar (Executive Director, Finance):
+Thank you.
+
+[31:37] Moderator (Call moderator):
+Thank you. The next question is from the line of Sarang Desai from Tamohara Investment Managers. Please go ahead.
+
+[31:50] Sarang Desai:
+Hi. Thank you for the opportunity. Am I audible?
+
+[31:52] Keyur Shah (Chairman and Managing Director):
+Yes.
+
+[31:53] Moderator (Call moderator):
+Yes, sir.
+
+[31:54] Sarang Desai:
+Yes. I just have two set of questions. The first one being, I just wanted to know the RIP bushings that we are making in-house that are yet to be go for testing. So, are we already approved by the tender issuing authorities? Are we already in the approved vendor list of customer list or whoever is the tender issuing authority? Or will that happen after the testing and everything happens? Because we have started invoicing, so that's why I'm asking.
+
+[32:27] Keyur Shah (Chairman and Managing Director):
+So, there are two type of approvals. One is the plant approval, and second is the product approval, right? And this is for partial customers. Some customers, they only know Yash Highvoltage. They don't bother whether you give it from Unit 1 or Unit 2. There will be certain customers who have tagged the location that, "We have approved you, but it is for Unit 1. And for Unit 2, you need to get an approval." And again, there will be a customer who would say that, "I have approved you, but with this core, and now if you're going to supply with the Y core, then you need to get the Y core also approved." So, for the core part, it is our own discipline that we have maintained that unless we type test and we get the qualification, we would not supply localized core till the localized bushings are type tested fully. And as far as plant is concerned, all those customers who did not have any hesitation or any restriction for us to supply from the new unit, we have already started supplying them. And for now, the approval process, the file has been put up to majority of the customers for approval of the new unit also. So, once the unit is approved, parallel, after the type test, the file will also be put up for the product approval. So, in this Q3, both should happen simultaneously.
+
+[33:51] Sarang Desai:
+Okay. Understood. The second set of question was we see the acute shortage of bushings, it has been since last year. And also seen that various transformer companies are putting up high-voltage capacities, and the competition on that front is increasing. So, I just wanted to know that are you also seeing that kind of new entrants in high-voltage RIP bushings in global market or domestic market, apart from those using for their captive consumptions?
+
+[34:29] Keyur Shah (Chairman and Managing Director):
+Yes. There are a couple of companies who have announced that they would also come into bushings, apart from the Hitachi and CG type of customers. So, yes, we are aware that people are wanting to come, or they have announced investments. So, we are okay. We are prepared for that.
+
+[34:50] Sarang Desai:
+Okay. Thank you so much for this. Thank you.
+
+[34:53] Moderator (Call moderator):
+Thank you. The next question is from the line of Sibesh from Chhatisgarh Investment Limited. Please go ahead.
+
+[35:04] Sibesh:
+Thank you for the opportunity. I had two questions around capacity expansion. First, what will be the RIP/RIS capacity expansion out of the total? And second, what could be the revenue potential from the expanded capacity and utilization roadmap, if any, that we are looking at for FY27 and '28 for the expanded capacity?
+
+[35:25] Keyur Shah (Chairman and Managing Director):
+Yes. So, the greenfield facility would be ready by this year for up till 245 kV, and after 1, 1.5 year for localized 550 kV. Put together, we see that the Unit 1 and Unit 2 would be able to invoice close to INR900 crores to INR1,000 crores of bushings as a combination of Unit 1 and Unit 2, and a combination of assembly model and the localized model. And by 2030-'31, we expect to fully utilize this potential of both the plants.
+
+[36:08] Sibesh:
+Okay. And what could be the revenue potential from the expanded capacity?
+
+[36:14] Keyur Shah (Chairman and Managing Director):
+That's what I'm saying. Put together, close to INR1,000 crores from both the units put together.
+
+[36:20] Sibesh:
+Okay. Got it. Thank you.
+
+[36:22] Keyur Shah (Chairman and Managing Director):
+Right, sir.
+
+[36:24] Moderator (Call moderator):
+Thank you. The next question is from the line of Urmish Shah from Moneywisers. Please go ahead.
+
+[36:30] Urmish Shah:
+Yes. Thank you for the opportunity. So, my question is on the greenfield facility only. Since we are going for backward integration and we will be reducing our imports, so could you help me with the quantum of savings as a percentage and how much margin improvement do you foresee once the manufacturing capacity is achieved?
+
+[36:52] Keyur Shah (Chairman and Managing Director):
+So, I think we responded it a while back, right, that we definitely see an expansion in the margin once we have localized production, right? You save on the import cost, you save on the import duty, on the air freights, and plus the local overheads versus the overheads what we -- also the foreign fluctuation, that all gets reduced. So, on an average, we believe that the profit margin should expand substantially. And I would not want to make an exact number till I have the full production…
+
+[37:27] Urmish Shah:
+Sir, I'm asking for a ballpark, if you could say that around 10% around, say, cost savings related to imports can be achieved or?
+
+[37:38] Keyur Shah (Chairman and Managing Director):
+Yes. The cost saving, the import duty and the freight put together is today, say, 18% to 20%. That definitely goes away, plus the overhead difference, right? So that is…
+
+[37:49] Urmish Shah:
+Right.
+
+[37:50] Keyur Shah (Chairman and Managing Director):
+But we have to also see how the customer is wanting us to give a price different than what it was they were giving for an imported core versus an Indian core, because the competition will also offer from India. So, we have to see how it goes and what is the pricing strategy of the competition also. So, accordingly, we can manage to make sure that at least we maintain our EBITDA or maybe make it a bit better going forward.
+
+[38:17] Urmish Shah:
+Okay. And is it fair to assume that this will give us a pricing power as well?
+
+[38:25] Keyur Shah (Chairman and Managing Director):
+In what sense?
+
+[38:27] Urmish Shah:
+In terms of pricing for our exports or for our domestic customer supply?
+
+[38:37] Keyur Shah (Chairman and Managing Director):
+Yes. We definitely have an advantage when we make a decision to export versus when we sell in India. The profit margins and the margin realization in export market, similar to what other set of manufacturers, it may be a transformer manufacturer or a cable manufacturer. Everybody sees that it is better to also have a combination of export business along with the domestic business to make a reasonable combination.
+
+[39:07] Urmish Shah:
+Okay. Thank you, sir. That helps. I'll join back. Thank you.
+
+[39:11] Keyur Shah (Chairman and Managing Director):
+Thank you, sir.
+
+[39:12] Moderator (Call moderator):
+Thank you. Ladies and gentlemen, we will not be taking repetitive questions and are happy to discuss another questions that you may have. The next question is from the line of Rushin Shah from Molecule Ventures. Please go ahead.
+
+[39:29] Rushin Shah:
+Firstly, congratulations, sir, on good set of numbers. My first question is around how much of the current pricing and margin do you think will sustain or it can increase further for bushing?
+
+[39:44] Keyur Shah (Chairman and Managing Director):
+Yes. It is impossible to predict the future. But as of now, it seems that next 2, 3, 4 years, it would still be a seller's market and the component players would be able to decide where to allocate their capacity. And we don't see any much reason of excess capacity and a bloodbath in the products as what typically happens when the tailwinds turn into headwinds. That's what we have seen in the previous cycles also. As far as bushings is concerned, we are a bit more hopeful because it is a niche product and it has got reasonable entry barriers. So, it's possible that -- and if you see the transformer companies have been announcing the investment as recent as last month also. So, if they are seeing a future post 24 to 30 months when their plants would be ready, and I'm sure everybody would be considering at least 4, 5 years of a payback period. So, if 400, 500 transformer companies are expanding and investing, then bushing companies like us don't need to enter into any bloodbath and to contract the margin. We can still maintain the margin or make it a bit better year-on-year. For next at least 5, 6 years, I don't see much reason for companies into the niche range, component range to go down below the belt for business and spoiling the prices and eroding the margin.
+
+[41:14] Rushin Shah:
+Great, sir. And sir, can we expect INR450 crores to INR500 crores out of revenue for full FY27 number?
+
+[41:23] Keyur Shah (Chairman and Managing Director):
+See, we are trying to make sure that there is a linearity in our invoicing. Our historical numbers always say that the H2 has always outperformed the H1. And that also happens, because the customers also want to finish their targets and the financial year, and there will be so many things which they want to do to meet up their goals. What we have tried this year is that we try, and in H2 -- in the H1 itself, we tried to balance and to bring in maximum possible revenue, so there is not too much of mismatch in H1, H2. I'm sure there might be some marginal difference in H2, but it will not be in those likes of what we have been seeing earlier, hopefully, unless the customers have too much pressure on us. As of now, it seems that we should be able to have a balanced H2 and H1.
+
+[42:14] Rushin Shah:
+Okay, sir. And sir, our current INR760 crores...
+
+[42:16] Moderator (Call moderator):
+Mr. Shah?
+
+[42:21] Rushin Shah:
+Yes.
+
+[42:21] Moderator (Call moderator):
+Please rejoin the queue for follow-up question.
+
+[42:24] Rushin Shah:
+Okay.
+
+[42:25] Moderator (Call moderator):
+Thank you. The next question is from the line of Rutvi Jain from Ashika Group. Please go ahead.
+
+[42:34] Rutvi Jain:
+Hi, sir. Sir, I just wanted to understand the realization part. What would be the realization when we import and what would be the realization in the domestic market? And also on the voltage level, below 220 kV or above…
+
+[42:51] Keyur Shah (Chairman and Managing Director):
+Madam, realization would not be known too much in advance because once we start quoting and taking orders from the localized product, we would come to know what the customer is expecting us to do, right? As of now, we believe that it won't be substantial because the bushings are in shortage today, right? And customers would be at least more than happy that they're getting something from India. And they are assured that they are getting it from a trusted supplier of so many years. And if they're able to get the bushings on time, they would be more than happy. We also don't want to exploit the customers because if our competition starts offering from India and which is a bit better price than what we are today having with our imported model, we also will be wanting to pass on the benefit to the customer also to make it reasonable for them also, and not to exploit. But we would also want to make sure that we don't bleed from our side, right? So, we believe that the net -- I would see it more from a profitability perspective. The profitability definitely should be either maintained or increased. That's what I see as a business. At the end of the day, I should not be exploiting the customer, I should be able to maintain relations for long. And if you are able to do a good business with 25%, 26%, 27% EBITDA, its good business, right? How does it matter it is INR500 crores or INR1,000 crores? These numbers are good numbers to maintain.
+
+[44:22] Rutvi Jain:
+Correct. Sir, also on the realization of your voltages, like below 220 kV and above 220 kV, what would be the difference?
+
+[44:32] Keyur Shah (Chairman and Managing Director):
+So, generally, it is not reciprocal that once you go higher in the voltage, then automatically, the profitability increases. It's not directly proportionate like that. Generally, it is better for us to see it as a combination that in a particular project, there might be a 420 kV bushing also and there will be a 24 kV bushing also, right, or maybe a 52 kV bushing also and a 245 kV bushing also. So, depending on our product loading, depending on our factory loading, depending on our capacity available, we would make a pricing structure, right? And we try to make sure that the blended margin is met, right? Sometimes in 245 kV, we might give a very aggressive price versus sometimes in 245 kV or 420 kV, we might be able to get a better price, and versus that, we might do a reasonable price dipping in the lower voltage class. So, it always depending on the situation.
+
+[45:33] Rutvi Jain:
+Fair enough, sir. Understood. Sir, so current realization that we have, is it…
+
+[45:38] Moderator (Call moderator):
+Sorry to interrupt you, Ms. Jain. Can you please rejoin the queue for a follow-up question as there is a long queue?
+
+[45:45] Rutvi Jain:
+Sure.
+
+[45:46] Moderator (Call moderator):
+Thank you. The next question is from the line of Sagar Shetty from Wealthyvia. Please go ahead.
+
+[45:55] Sagar Shetty:
+Yes. Hi. Good evening, sir. So, am I audible?
+
+[45:58] Keyur Shah (Chairman and Managing Director):
+Yes.
+
+[45:59] Moderator (Call moderator):
+Yes, sir.
+
+[46:00] Sagar Shetty:
+Yes. So, congratulations on a good set of numbers, sir. So, I just wanted to know if you could update us regarding the Sukrut JV, like how do we see it evolving as it continues to grow and how we plan to consolidate it into our business. So, can you just give a quick view on that?
+
+[46:18] Keyur Shah (Chairman and Managing Director):
+Yes. We and Sukrut have similar clients, and we see a lot synergy between both the companies. You would see that it is only 9 months that we have formally taken over the company. We have taken it in last December, and in 9 months, we are happy that we have brought the company to green again. The last year was in loss. We already brought the company in profits. And we see that going forward with active involvement of Yash and Quality Power, but with a professionally driven organization as what Sukrut we are wanting to, it should be on a great growth path. We have good synergies between Yash, Quality Power, and Sukrut.
+
+[47:00] Sagar Shetty:
+Okay. And secondly, sir, if you could just, with the new facility enabling you to manufacture bushings up to 550 kV, what would be the percentage in terms of average realization compared to the lower voltage product? So, how would that get an uptick in comparison in average realization?
+
+[47:21] Keyur Shah (Chairman and Managing Director):
+Sir, I'll tell you. The bushing prices can vary between INR30,000 to INR40 lakhs, right? It is impossible for us to give an average of something. An OIP bushing of 72.5 kV would be INR30,000, INR35,000, and a 420 kV bushing can vary between different current class between INR36 lakhs to INR44 lakhs. So, it's impossible for us to make an exact bifurcation. But yes, the higher-voltage classes enable us to get larger revenues. For sure, the revenue of the company would definitely see a steep increase once we switch on to 420 kV and 550 kV from the existing 245 kV.
+
+[48:01] Sagar Shetty:
+And so, how would -- which market do you think -- would you approach first, the domestic one or the export one? Which market is much bigger or greater or…
+
+[48:13] Keyur Shah (Chairman and Managing Director):
+We definitely would not want to lose our ground on the domestic market, but we would also want to add the flavor of an export market to top up the company's positioning at a global level. So for sure, we would want to focus on both. We don't want to neglect either of the market.
+
+[48:29] Sagar Shetty:
+So which market would be greater in terms of TAM?
+
+[48:33] Keyur Shah (Chairman and Managing Director):
+Global market is huge.
+
+[48:37] Sagar Shetty:
+Global market?
+
+[48:38] Keyur Shah (Chairman and Managing Director):
+Yes, it's huge.
+
+[48:39] Sagar Shetty:
+Okay. And that's it from my side. Thank you so much, sir.
+
+[48:46] Moderator (Call moderator):
+Thank you. The next question is from the line of Bhavik Shah from Invexa Capital. Please go ahead.
+
+[48:54] Bhavik Shah:
+Hello, sir. Congratulations on a good set of numbers. So, my first question is, is the understanding correct, the new facilities will be more focused towards a higher kV class of bushings because we are guiding for say INR1,000 crores of revenue and additionally around 6,000 units are getting added. So, my average realization jumps from the current INR3 lakhs to around INR12 lakhs. So, is that understanding correct?
+
+[49:20] Keyur Shah (Chairman and Managing Director):
+My request not to equate with the capacity and the volume and the turnover and to average it out and to make it to a number, because it would be always a combination. When I say revenue of INR1,000 crores plus/minus, I consider all the voltage classes from 24 kV to 550 kV. And yes, the new capacity would be ready, and we don't want to make it only a higher voltage class bushing facility. The facility is primarily for RIP bushings, localized, and so from 24 kV to 550 kV entire range we would want to produce and sell and also continue the assembly model. So, it will not be possible to exactly put up the quantity versus revenue division.
+
+[50:13] Bhavik Shah:
+Right, sir. And sir, how much time does it take for us to venture into the higher kV class, assuming the customer approvals or the timelines which it takes?
+
+[50:23] Keyur Shah (Chairman and Managing Director):
+So, we have already got orders unexecuted for 420 kV, and we should start invoicing it from this year itself. This will be for an assembly model. And for our own localized bushing up till 245 kV, the commercial production should happen from the fourth quarter of this year, and then it should go forward. And for the 420 kV and 550 kV, it should be in the Q4 of '28 or mid-28 max.
+
+[50:56] Bhavik Shah:
+Understood, sir. All the best, sir.
+
+[50:59] Keyur Shah (Chairman and Managing Director):
+Thank you.
+
+[51:01] Moderator (Call moderator):
+Thank you. The next question is from the line of Taher Hydrabadwala from Grobiz fund. Please go ahead.
+
+[51:11] Taher Hydrabadwala:
+Hi, sir. Can you hear me?
+
+[51:13] Keyur Shah (Chairman and Managing Director):
+Yes, sure.
+
+[51:14] Taher Hydrabadwala:
+First of all, congrats on the good set of numbers. These are great numbers you have delivered. I have two, three questions. Mostly first, on the receivable front. Our receivable days has increased compared to FY26, 47 days to 66 days. What was the reason behind that, and how can we see this -- how much is overdue or how...?
+
+[51:38] Keyur Shah (Chairman and Managing Director):
+Yes, Mr. Darshan Thakkar is responding on this.
+
+[51:42] Taher Hydrabadwala:
+What, sir?
+
+[51:43] Darshan Thakkar (Executive Director, Finance):
+On the receivable front, if you see the absolute number, it has almost doubled, but it is in line with the increase in the revenue also. In terms of the number of days for collection, it has remained the same. It was 47 days in H1 of last year. It stands at 47 days even in H1 of this year. Last year, full year number was 45 days, so that way, yes, from 45 days to 47 days is the increase from full year '26 to H1 of '27. And that is where we expect it to remain. So, we are comfortable with a 45 days kind of a receivable.
+
+[52:21] Taher Hydrabadwala:
+Okay. And in this H1, we have delivered a great cash flow of around INR45 crores which was cumulative of last 4 years, almost -- 4 years to 5 years. I see there was a big number of non-current assets getting from, sorry, one second. Non-current assets, other current assets going from INR11 crores from FY26 to INR40 crores in H1. What was that number? Can you please throw some light there?
+
+[52:53] Darshan Thakkar (Executive Director, Finance):
+This is basically advance to the vendors.
+
+[52:56] Taher Hydrabadwala:
+Okay, this is advance to the vendors.
+
+[53:01] Darshan Thakkar (Executive Director, Finance):
+And like Mr. Shah was mentioning, we are today dependent for the cores from our international vendors, and to secure the slots for them, we have to make some advance payments, so this is primarily for that.
+
+[53:14] Taher Hydrabadwala:
+Okay. Okay, sir. Thank you. That was from my side.
+
+[53:19] Moderator (Call moderator):
+Thank you. The next question is from the line of Basant Bansal from NBG Investments. Please go ahead.
+
+[53:27] Basant Bansal:
+Yes. My question is to Keyur bhai. Keyur bhai, my question is around the AI, Artificial Intelligence. I know it may not be directly connected to you, but definitely, it impacts the transformer companies. So now, a lot of negative sentiment is built up around this AI. Are you seeing any impact on transformer companies, which is also hitting you?
+
+[53:57] Keyur Shah (Chairman and Managing Director):
+No, sir.
+
+[54:02] Basant Bansal:
+What is your stand on this artificial intelligence thing? How it is relevant to you or transformer companies?
+
+[54:13] Keyur Shah (Chairman and Managing Director):
+Sir, I only see that the demand is increasing day by day, right? It's always possible that when new technologies come in, there are always – there are different books of thoughts, right? So, somebody might have different views for AI. We, as an industrialist, are happy doing our business from whatever way the business comes. So, I would not be the right person to comment on whether the AI would be the future or it would not be the future. I am not the right person…
+
+[54:45] Basant Bansal:
+It is not future, or not future, but is it impacting who are your clients?
+
+[54:52] Keyur Shah (Chairman and Managing Director):
+No, we have not got anything from our customers who had data center orders who got stuck and now they don't go on. That's not happening. That's what I'm trying to tell you.
+
+[55:02] Moderator (Call moderator):
+Thank you. The next question is from the line of Soham Kunkulol from Vajani Capital. Please go ahead.
+
+[55:16] Soham Kunkulol:
+Yes. Am I audible? Hello?
+
+[55:17] Moderator (Call moderator):
+Yes, sir. You're audible.
+
+[55:19] Soham Kunkulol:
+Actually, I just have a small question. Can the management please provide the total volume of bushings sold in H1'27 compared to H1'26?
+
+[55:27] Darshan Thakkar (Executive Director, Finance):
+So, it is – the total volume is the 4,000-odd bushings in H1 of '27 versus 2,950 in H1 of last year. That signifies a growth of 40% in volume terms.
+
+[55:42] Soham Kunkulol:
+Can you please give me a product-wise numbers, if it's possible?
+
+[55:47] Darshan Thakkar (Executive Director, Finance):
+No, product-wise will be difficult to give it. It's a ballpark 40% increase across OIP, RIPs. Then, of course, you have high-current and others. There's an overall increase in quantity here. We would not want to divulge the KV class-wise and the segment-wise numbers.
+
+[56:06] Soham Kunkulol:
+Okay. Thank you. That's it from my side.
+
+[56:10] Moderator (Call moderator):
+Thank you. The next question is from the line of Mahek Talati from Agility Advisors. Please go ahead.
+
+[56:19] Mahek Talati:
+Yes. Hi, sir. Thank you for the opportunity. Am I audible?
+
+[56:22] Moderator (Call moderator):
+Yes, sir. You are.
+
+[56:25] Mahek Talati:
+Yes. Just wanted to understand on this U.S. agreement which you have done. If you could give -- throw some light on how big is the opportunity there and when can we start seeing the numbers from that agreement? And are we seeing any more agreements in the other states or in the other countries as well? That's one question.
+
+[56:47] Keyur Shah (Chairman and Managing Director):
+Yes. So, thank you for your question. Yes, the U.S. agreements are now in place, and even without the agreement, we already had some business from U.S. The agreements would help us get a permanent approval in the utilities and the end users over there, so the business continues for many more years, right? Certain times when the business comes to you, it is because of it's a demand and there is a less supply. In that context, you get business, but if you want to bolster the position permanently, then you need to get inroads deeper into the end customer and the OEM. So that's what we are going to do along with the support of the agents, not only in U.S., but globally. We have now agents in close to 30 countries, right? So, it's not that we are working only in U.S. We are working worldwide to deepen the presence of Yash. And for sure, it has already started giving us results and the way it has come for the other countries, similar would come for future also, from U.S. also.
+
+[57:52] Mahek Talati:
+Understood. And sir, with the kind of realizations we have seen in H1 FY27, do we expect this realizations to continue or we might see some decrease in the average realization going forward?
+
+[58:08] Keyur Shah (Chairman and Managing Director):
+No, we don't see any major problem, any hiccup. We should be able to maintain what we are doing.
+
+[58:16] Mahek Talati:
+Okay. Thank you. Thank you so much.
+
+[58:19] Moderator (Call moderator):
+Thank you. The next question is from the line of Utkarsh Somaiya from Eiko Quantum Solutions. Please go ahead.
+
+[58:31] Utkarsh Somaiya:
+Thank you for the opportunity. This INR1,000 crores peak revenue approximately that you mentioned for both your units post expansion, can we expect that to be met by, let's say, FY29 or FY30?
+
+[58:48] Keyur Shah (Chairman and Managing Director):
+'30-'31 would be the right time, sir.
+
+[58:51] Utkarsh Somaiya:
+'30-'31. So, FY31?
+
+[58:53] Keyur Shah (Chairman and Managing Director):
+Yes.
+
+[58:55] Utkarsh Somaiya:
+Okay. And what are your capex plans for FY28 and FY29?
+
+[59:03] Keyur Shah (Chairman and Managing Director):
+So, this expansion what we are doing today would be sufficient enough for us to create and build this capacity and to be able to revenue -- to achieve this revenue what we were talking. There might be some small incremental investment which we might need to do with the growing numbers, but that might not be substantial. This investment what we are doing today would be sufficient for us to meet this revenue numbers. If there is any reason what we needed, we can do it from our strong internal accruals.
+
+[59:45] Utkarsh Somaiya:
+Okay. Can I squeeze in one more question?
+
+[59:49] Keyur Shah (Chairman and Managing Director):
+Yes.
+
+[59:52] Utkarsh Somaiya:
+After your backward integration, what is the cost savings do you expect to make on, how many percentage points cost savings do you expect?
+
+[01:00:01] Keyur Shah (Chairman and Managing Director):
+I think we have replied this in the previous question, so you will get probably in the summary.
+
+[01:00:07] Utkarsh Somaiya:
+Okay. Thank you.
+
+[01:00:10] Moderator (Call moderator):
+Thank you. Ladies and gentlemen, due to time constraint, that was the last question. I now hand the conference over to Mr. Keyur Shah for closing comments. Over to you, sir.
+
+[01:00:21] Keyur Shah (Chairman and Managing Director):
+Thank you very much to all the participants for your thoughtful questions and continued engagement with us. Looking ahead, our priorities for the second half of '27 are to commission end-to-end RIP/RIS bushing manufacturing, ramp up higher-voltage assembly at the Jarod facility, deepen customer relationship in India and overseas, and strengthen our presence in the United States. We will continue to place quality, reliability, and timely delivery at the center of our operations while maintaining financial discipline and a prudent approach to capital allocation. We are positioned to participate in long-term growth opportunities across India and the global power transmission ecosystem, supported by ongoing investment in grid infrastructure, renewable energy integration, and higher-voltage applications. Thank you once again for joining us today and for your continued confidence in the company. We look forward to interacting with you again in the coming quarters. Thank you so much, everyone.
+
+[01:01:12] Moderator (Call moderator):
+On behalf of Yash Highvoltage Limited, that concludes this conference. Thank you for joining us, and you may now disconnect your lines.

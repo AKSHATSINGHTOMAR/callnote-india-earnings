@@ -1,0 +1,527 @@
+# SG Finserve Limited — Q2 and H1 FY27 earnings call
+Ticker: SGFIN · NSE
+Date: Oct 16, 2026
+Interactive audio player: https://akshatsinghtomar.github.io/callnote-india-earnings/
+Official source: https://www.sgfinserve.com/schedule-analyst
+Transcript PDF: https://akshatsinghtomar.github.io/callnote-india-earnings/calls/sg-finserve-q2-h1-fy27-transcript.pdf
+
+--- FULL VERBATIM TRANSCRIPT ---
+
+[00:00] Moderator (Call moderator · Elara Securities):
+Ladies and gentlemen, good day and welcome to the Q2 FY27 Earnings Conference call of SG Finserve hosted by Elara Securities India Private Limited. As a reminder, all participant lines will be in the listen-only mode and there will be an opportunity for you to ask questions after the presentation concludes. Should you need assistance during this conference call, please signal an operator by pressing star, then zero on your touchtone phone. Please note that this conference is being recorded. I now hand over the conference to Mr. Maneet Khimawat from Elara Securities. Thank you and over to you, sir.
+
+[00:41] Maneet Khimawat (Elara Securities):
+Thank you. Good evening, everyone. We welcome you to the Earnings Conference call of SG Finserve to discuss the Q2 FY27 performance of the company. I would now like to hand over the call to Mr. Vinay Gupta, CEO for his opening remarks. Over to you, sir.
+
+[00:59] Vinay Gupta (Chief Executive Officer):
+Thank you team Elara for hosting us today. Jai Hind, everyone and a very good evening. My name is Vinay Gupta, CEO of your NBFC, SG Finserve Limited. I have my senior colleagues Anubhav, our Group Chief Strategy Officer; Sanjay our CFO; Lalit, our CBO; Abhishek, our CRO, and Vivek, our COO here. We have completed 4 years of our operations. In these 4 years, we have generated profits of around INR560 crores, of which we have paid approximately INR145 crores in taxes, and we have accumulated around INR415 crores as part of our equity pool. We are happy to share that the first half of FY27 has been encouraging on all the efforts. We have achieved an all-time high quarterly PAT of INR59 crores in Q2. Our loan book is also at an all-time high of around INR5,700 crores. The PBT for H1 was INR150 crores, which has doubled if you were to compare it from the corresponding H1 of the previous year. We have been successful in implementing our widening and deepening business strategy which we adopted at the beginning of the financial year. We have added more anchors, more borrowers and more business partnerships. We have scaled our existing products. Apart from dealer financing and deep-tier financing, we have started doing Factoring and TReDS. We have also commercialized digital lending and loan against property during the quarter. We continue to be a supply-chain-focused NBFC, supply chain contributing to ~70% of our AUM today. This is despite reduction in our dependency on the group’s ecosystem. The contribution of group’s ecosystem to our book has come down to 25% now. Currently, we are powering the ecosystem of more than 60 brands in the country, providing supply chain financing solutions. We continue to leverage our digital infrastructure and disbursed loans of more than INR16,000 crores in H1, which means volumes of INR32,000 crores on an annualized basis, which translates to less than 2 months of payback cycle for our loan book. This volume, if you were to compare on a year-on-year basis has gone up by 46%. We have also achieved all our key operating parameters: maintained nil NPA, return on assets is more than 4.5% and cost-to-income continues to remain less than 15% and we plan to maintain this in quarters to come as well. Over the last one year, our asset-to-equity leverage has improved from 2.8x to 3.7x and during the same time, our quarterly run rate for return on equity has moved up to 15% in Q2’FY27. To augment business growth, we have almost doubled our team strength in last 1 year. Today, we have a strong team of more than 100 people. However, we continue to maintain high productivity. On an annualized basis, our per-employee PAT is more than INR2 crores. We have exited the quarter with net worth of approximately INR1,600 crores, which provides us ample headroom to augment our growth in coming quarters. Given our improved profitability, scaling operations, healthy capital structure and strong parenting, CRISIL has rated us AA- on a long-term scale and A1+ on a short-term scale. At SG Finserve we always believe that sustainable growth matters more than the headline growth and our focus is to build business that is scalable and profitable while maintaining strong credit quality. Today, SG Finserve is among 1% NBFCs in the country who are providing supply chain financing or factoring, or TReDS or digital lending products. With that, I would like to hand over the call back to our host.
+
+[04:31] Moderator (Call moderator · Elara Securities):
+Thank you very much. We will now begin with a question-and-answer session. The first question is from the line of Aaryan Doshi from Divitiae Investments. Please go ahead.
+
+[05:02] Aaryan Doshi:
+Yeah, can you hear me?
+
+[05:04] Vinay Gupta (Chief Executive Officer):
+Yes Aaryan go ahead.
+
+[05:06] Aaryan Doshi:
+Yeah. Congratulations on a great set of results and thanks for the opportunity. My question was on leverage. Your borrowings are now close to 3x of the net worth which is close to the ceiling you have set for yourselves, and you have been saying you don't need to raise equity until the book reaches INR10,000 crores. So just to ask you directly, are you looking for an equity raise this financial year?
+
+[05:27] Vinay Gupta (Chief Executive Officer):
+No. Our mid-term target was to not leverage ourselves beyond debt-to-equity of 3x. But now considering the growth which has front-loaded, we are revising our leverage to debt-to-equity of 4x. Today in our board meeting also, board has approved the incremental borrowing, so we would like to leverage ourselves more. Initially, we wanted to leverage to a particular level and with the incremental confidence on performance, we would like to leverage more.
+
+[05:59] Aaryan Doshi:
+Perfect. And on this new shared services company you have invested in, what will SG will be paying them in a full year?
+
+[06:09] Vinay Gupta (Chief Executive Officer):
+It is just the beginning of the journey. We have not decided anything to pay them. On a headline level, there will be only miniscule amount which will be paid in the initial year because this is a concept which has been done at a group level where we would like to see if there can be some synergies we can built and reduce cost in the process. The objective is to not increase the cost; our objective is to bring synergy and reduce the cost or worst, maintain the cost.
+
+[06:36] Aaryan Doshi:
+Understood. And one last question. There's a disclosure on the project finance in the results. So 12 accounts and none has started a commercial operation. It's been 6 months now. When do you expect the first one to start?
+
+[07:03] Vinay Gupta (Chief Executive Officer):
+These are loans given on the project finance side. This has been disbursed recently. The projects are yet to start. The project probably will start in 6 to 9 months.
+
+[07:20] Aaryan Doshi:
+Understood. Thank you. Thank you so much.
+
+[07:22] Moderator (Call moderator · Elara Securities):
+Thank you. The next question is from the line of Abhi Jain from A.J. Capital. Please go ahead.
+
+[07:31] Abhi Jain:
+Hi. Good afternoon, Mr. Gupta. Hope you're doing well.
+
+[07:36] Vinay Gupta (Chief Executive Officer):
+Yes, Abhi. Thank you.
+
+[07:38] Abhi Jain:
+First of all again congratulations. Whatever you have laid down, you are delivering in terms of your NPAs. Obviously, you are doing much better in terms of your loan book growth. So congratulations on that. It's a good approach that you're always conservative with your guidance, but you're always over delivering. So congratulations on that. So my first question stems from the discussion that we were having in the last participant only. Now, given that you have clarified that you would like to take the debt-equity to 4x, I am just looking at your glide path and I'm just looking at the way the book is growing. My rough backof-the-envelope calculation tells me that at about INR11,000 crores of AUM. You would have debt-to-equity of 4x the maximum and at that point, you would have to raise equity if you wish to maintain this debt-to-equity of 1 is to 4 – 4 is to 1. So I wanted to understand from you given that I still feel that SG Finserve is undervalued in the market, at that time if this 3x price-to-book current valuation continues, it will be a significant amount of equity dilution that would be required if you have to dilute equity at that stage. So any thought, any strategic understanding in the board or in the management about whether you would want to increase your debt-to-equity cap from 4 to 1 to 5 to 1 or if you have to infuse equity, whether it can be in the form of CCDs or OCDs, which helps to defer this equity dilution till the point the market cap is justified in terms of valuation? It is a far it looks into the future. It's a futuristic question, but I just wanted to understand if there has been any discussions or any strategies around it?
+
+[09:33] Anubhav Gupta (Group Chief Strategy Officer):
+I'll answer this, Vinay. Hi, Anubhav here. See, 4-to-1 is the new mandate we have now for debtequity leverage, which will take our AUM to INR11,000 crores versus INR5,700 crores from today. Which is almost 100% growth. Now we believe that the current supply chain mandates we have from our anchor clients, we can achieve this AUM growth in next 2 to 3 years, which will translate into 30%-35% AUM growth Y-o-Y. This is what we have already been geared up. Now, at that point of time, yes, we will have two options either to dilute equity or we look for higher debt-to-equity mandate, but that is like 2 to 3 years down the line. And assuming that Indian capital markets remain subdued as of today, that's why all the NBFCs are trading at low price-to-book, but I'm sure in next 2, 3 years that NBFC sector should re-rate. And faster-growth companies like SG Finserve should be able to attract better re-rating. Who knows that after 2-3 years, diluting equity would be good for all the stakeholders. It is difficult to comment on that situation right now. And if at all we believe that equity dilution is not feasible because of low multiples for the whole NBFC sector in Indian capital markets, we will recalibrate our strategy for debt-to-equity ratios.
+
+[11:18] Abhi Jain:
+Great, sir. So I think that is a very good understanding that board and the management is cognizant and I respect that because yeah given the way you're growing, I am pretty sure the time will come much before 2 to 3 years that you mentioned?
+
+[11:37] Anubhav Gupta (Group Chief Strategy Officer):
+Yes, we also hope so. But given the pedigree of our group, I mean neither debt nor equity looks as a challenge because of massive credibility what our group has.
+
+[11:54] Abhi Jain:
+Yeah, I'm pretty sure that you won't have a challenge in raising equity. It's just that how big a dilution as per the current valuation?
+
+[12:01] Anubhav Gupta (Group Chief Strategy Officer):
+For that matter debt also.
+
+[12:04] Abhi Jain:
+Yeah, true. You won't have challenge. So that is why I was thinking that if it comes to that, maybe a CCD or an OCD can be a better option at that. Great, sir. Just a second question. This smaller investment that has gone into a subsidiary, I think one of them is on the technology front. So any thoughts around working in the digital space, making the systems more robust or are you planning any technological investments, anything on the horizon? If you can just update us, that would be helpful. Just to see where the future lies in the next 12 to 18 months for SG?
+
+[12:47] Vinay Gupta (Chief Executive Officer):
+Very good question, Abhi. AI and digital is the future from the MSME supply chain ecosystem and we have already began our journey on digital lending front during the quarter. We have already disbursed around 10,000 loans using digital lending, following RBI guidelines, leveraging LSP framework. We believe in building AI-based monitoring, and digital infrastructure. API stack is the need of the hour for lenders. All major Banks and NBFCs are adopting AI in one form or another. Now, we had two choices in front of us whether we continue to rely on the external vendor SaaS-based model or we develop something in-house. We believe from a data security perspective, and from the dependency perspective, having an in-house AI digital stack is a better way forward. That's why we are beginning with a small 15% stake, which is more strategic and a long-term in nature and it will help us in long run to cater to the products we are operating with.
+
+[13:53] Abhi Jain:
+I just want to congratulate you, Mr. Gupta. I'm so happy that you have provided that perspective. I mean, finally SG is thinking about AI and thinking about digital investments. It's just such a pleasant news. And I think apart from the growth that is, obviously, the investors now take you for granted in terms of growth, but this development is fantastic news. So congratulations to you and your team. And yeah, hopefully in next 12 to 18 months we'll get more flavor from you on these investments. So congratulations on a great set of numbers. Congratulations on this AI and digital-led journey that SG Finserve is taking on. So, yeah, and all the best and we'll keep talking in the future. Thank you.
+
+[14:27] Vinay Gupta (Chief Executive Officer):
+Thank you so much for the kind words, Abhi.
+
+[14:28] Moderator (Call moderator · Elara Securities):
+Thank you. The next question is from the line of Vipul Lamba from EVK Logistics. Please go ahead.
+
+[14:34] Vipul Lamba:
+Thanks for taking my question. Vinay ji, first of all, congrats for such good set of numbers. One we see that the AUM has grown by 25%, but the revenue or the interest, I think here is around 18% quarter-on-quarter growth. Any what would be the key reasons for this?
+
+[15:11] Vinay Gupta (Chief Executive Officer):
+In our presentation, if you look at, Vipul, our average AUM quarter-on-quarter has gone up by 17%. If you were to compare from June to September end, the end-period growth is 25%. But since we generate income on an everyday outstanding, that's why the difference is.
+
+[15:32] Vipul Lamba:
+Got it. And in terms of the interest cost, if we see even in the last two quarters compared to this quarter, the interest cost as a percentage to our income has gone higher. Again, any specific reasons to that?
+
+[15:48] Vinay Gupta (Chief Executive Officer):
+Leverage. Our asset-to-equity has gone up from 2.8x to 3.7x in last two quarters. So when the leverage goes up, mathematically the interest cost will go up. But it translates to a better return on equity. It only means that we are sweating our equity better.
+
+[16:06] Vipul Lamba:
+Got it. And sir regarding the BharatPe partnership which you have done, I mean, generally in that sector, when you give loans to merchants, although the ticket size may be lesser, but NPAs tend to happen. So do you see that NPAs coming in in next couple of quarters in a way, maybe it's to remain very low, but do you think that that to happen considering the other players who are doing the similar kind of lending through others, either Paytm or other players, the NPAs does happen?
+
+[16:40] Vinay Gupta (Chief Executive Officer):
+NPA does happen. But philosophy of the group is very simple - nil NPAs. And that we want to maintain in BharatPe arrangement also. Maybe at a gross level, NPA may be there. But what matters whether NPAs are hurting us or not. So we have in-built cushions in form of better commercial or FLDG from LSPs. There are mechanisms allowed by regulator which we have adopted to take care of instances if there are any NPAs. So I don't envisage any scenario of any NPA coming in digital lending book also.
+
+[17:20] Vipul Lamba:
+Got it. And Vinay ji, what is the kind of loan book would you see from specifically through this route in last next, say, four quarters?
+
+[17:31] Vinay Gupta (Chief Executive Officer):
+If I were to look at our journey of INR10,000 crores in next 2 to 3 years, I think digital lending should contribute around 10% to our overall AUM.
+
+[17:51] Vipul Lamba:
+Got it. And regarding the factoring business now, for as of the last quarter end, what would be the number in in terms of the book size?
+
+[17:56] Vinay Gupta (Chief Executive Officer):
+Around 15% contribution to our book is coming from the factoring.
+
+[18:01] Vipul Lamba:
+15%?
+
+[18:02] Vinay Gupta (Chief Executive Officer):
+Correct.
+
+[18:03] Vipul Lamba:
+It looks to be a significant jump, right? Last quarter, it was a very small number, correct?
+
+[18:09] Vinay Gupta (Chief Executive Officer):
+That's right, Vipul. Because we got the factoring license in March. We started with our small journey in first quarter. And then we made the process, identified the target customer, target market and then we have started scaling it. Anyway, Factoring is only a product. Ultimately, it's a supply chain financing product. So, I will not differentiate dealer finance from factoring, because both are downstream ecosystem-based financing. It is just that one product suits a particular industry, another product suits another industry, but both are similar in nature.
+
+[18:43] Vipul Lamba:
+Got it. And Vinay ji, your guidance would remain same considering even in a quarter 25% kind of numbers which we are getting?
+
+[18:55] Vinay Gupta (Chief Executive Officer):
+Guidance, we will maintain 30% to 35% CAGR from the AUM perspective, and 35%-40% CAGR from profitability perspective. But if the business which suits our credit appetite, commercials and the kind of business we want to do comes our way, we would not like to deliberately defer it. That's what has happened with us in Q2 and we got the opportunity frontloaded for us and that's why we thought it's better to bite it today instead of deferring it.
+
+[19:26] Vipul Lamba:
+Got it. And last thing on a seasonality, do you have any seasonality kind of thing seen in the business in terms of first half and second half or it remains static? I mean, it will be similar to what was there in the first half.
+
+[19:41] Vinay Gupta (Chief Executive Officer):
+Generally, for the BFSI and more so for the NBFCs, I think Q2 and Q4 would have slight seasonality, but that would only be 2%, 3% seasonality factor, and not beyond that.
+
+[19:55] Vipul Lamba:
+On the higher side or lower it will be higher right?
+
+[19:59] Vinay Gupta (Chief Executive Officer):
+Higher side.
+
+[20:00] Vipul Lamba:
+Okay. Thank you. Thank you so much.
+
+[20:06] Moderator (Call moderator · Elara Securities):
+Thank you. The next question is from the line of Mayank Kumar from Prasun Exponentials. Please go ahead.
+
+[20:12] Mayank Kumar:
+Hello. Thank you for the opportunity. Sir, congratulations on a great set of numbers. So first of all, I wanted to know, while I get that we operate at a nil NPA, but can you share some numbers on the DPD, DPD zero?
+
+[20:35] Vinay Gupta (Chief Executive Officer):
+Our collection efficiency, Mayank, is 99.5% on a month-on-month basis. When I say collection efficiency, it means 99.5% gets paid on due date or before due date. 0.5% dues slips into one plus DPD bucket, but that entire 0.5% get collected, majority within 30 DPD, and some within 60 DPD. Very exceptionally something slips between 60 to 90 bucket.
+
+[21:08] Mayank Kumar:
+Okay, sir. Got it. And sir, currently, how much of our loan book is exposed to supply chain? Earlier, I remember it was two-third.
+
+[21:18] Vinay Gupta (Chief Executive Officer):
+70% broadly.
+
+[21:22] Mayank Kumar:
+Okay. And then AUM guidance for the year, earlier we were targeting INR5,500 crores by the year end. So we seem to have achieved that early. So any new targets that you have?
+
+[21:40] Vinay Gupta (Chief Executive Officer):
+30%-35% kind of a CAGR we will maintain on one year forward basis from current base, and the March just comes in between.
+
+[21:59] Mayank Kumar:
+Okay. Got it. And sir, employee count, you mentioned employees have doubled over past one year. Going forward, how should we see it? Should it linearly scale with the AUM, or there is some operating leverage or productivity enhancement there?
+
+[22:21] Vinay Gupta (Chief Executive Officer):
+100 is the count but productivity is more than INR2 crores per employee, and we would like to maintain that going forward also. We are very conscious about cost and hence, we are hiring people only to take care of growing business. Today, we are present across 34 locations to cover our customers. And we are hiring and spending, only on need basis. So the idea is not to hire as a strategy, the idea is to hire on need basis. Further, if I were to link it to your previous question, today when we have book of INR5,700 crores and looking at the current run rate, probably we may end up achieving INR7,000 crores kind of AUM by year end and again, go back to 30%-35% kind of a CAGR. With INR7,000 crores number in our mind with 100 team strength, I think this is good enough for us for to take care of our growth in this next 2 quarters.
+
+[23:23] Mayank Kumar:
+Okay, sir. Okay, got it. Thank you very much, sir. All the very best.
+
+[23:31] Vinay Gupta (Chief Executive Officer):
+Thank you.
+
+[23:32] Moderator (Call moderator · Elara Securities):
+Thank you. The next question is from the line of Divyesh Trivedi from Omega Portfolio Advisors. Please go ahead.
+
+[23:40] Divyesh Trivedi:
+Hi. Am I audible?
+
+[23:43] Moderator (Call moderator · Elara Securities):
+Yes, you are.
+
+[23:45] Divyesh Trivedi:
+So thank you for the opportunity, and congrats on the quarter. So could you share the sectorwise breakup of our AUM, like what proportion is into steel, auto, and other industry?
+
+[24:02] Vinay Gupta (Chief Executive Officer):
+Supply chain is present across 5, 6 major industries, and that is true for all other BFSI players also who are operating in supply chain. That is true for us also. So the number one industry for us is steel and building products, and number two would be automotive. If I were to dissect it, around 35% would be steel and building products, another 20% odd would be auto, and then there are varied industry, we are into pharma, IT, Tiles, Electricals, Cables, so on.
+
+[24:36] Divyesh Trivedi:
+Okay. So just a follow-up on that. So how do we assess the working capital demand across these sectors? Like is it correct to assume that higher steel prices contributes to the higher working capital requirement and, consequently, demand for our financing?
+
+[24:57] Vinay Gupta (Chief Executive Officer):
+Requirement of a dealer will go up, yes, mathematically, if the steel prices were to go up. But that does not mean that our exposure will also go up, because we have a particular appetite on a dealer. And if dealers need more money, either they need to find an alternate means to take care of that incremental requirement. So it will not be absolutely right to say that, if the steel prices go up, our book will also go up. Yes, the requirement will go up, but that requirement can be met within the appetite of every institution, and so is true for us. If I were to elaborate it further, today, we have 800 odd customers, which means INR7 crores kind of an average ticket size we have per customer. So we have an appetite which is limited on each borrower.
+
+[25:52] Divyesh Trivedi:
+Okay, got it. And so in H1 like we have acquired 14 new anchor corporates. So how many additional new anchors do we expect to onboard in the second half?
+
+[26:07] Vinay Gupta (Chief Executive Officer):
+The target in our mind is 2 anchors per month. That is the run rate we want to operate at least for the next 12 to 18 months. And once the maturity cycle reaches, then probably we will taper it down. But today, we are powering 60 brands in the country, and the target we took on us is to add 2 new corporates every month.
+
+[26:31] Divyesh Trivedi:
+Okay, got it. And lastly, the board has approved an investment of approximately INR48 crores to set up a finance company in the GIFT City. So could you explain what's the business activities this company will undertake?
+
+[26:47] Vinay Gupta (Chief Executive Officer):
+Supply chain only. currently, SG Finserve is doing domestic supply chain. But when we meet our anchor corporates and the MSME customers, there is a need to take care of overseas supply chain also, for their imports or export business. For that reason, we are setting up our wholly owned subsidiary in GIFT City. But it has a dual approval requirement from RBI and IFSCA, so it's a long gestation. This is going to take maybe a year or so to be operational there.
+
+[27:17] Divyesh Trivedi:
+Okay. So the client will be the same?
+
+[27:21] Vinay Gupta (Chief Executive Officer):
+Same or similar, because there are few clients who operate only in overseas market, so there will be different, but similar industry, same set of criteria. For example, we used to do dealer financing last year. Same set of customer needed factoring, so we got a factoring license from RBI, and we started doing factoring. For us, that's why it was quick go-to-the-market product because we were already present in their ecosystem. So idea is to leverage the existing ecosystem by improving the wallet.
+
+[27:51] Divyesh Trivedi:
+Okay, got it. Thank you.
+
+[27:56] Moderator (Call moderator · Elara Securities):
+Thank you. The next question is from the line of Prince Goenka from Narnolia. Please go ahead.
+
+[28:05] Prince Goenka:
+Hi, thanks for taking my question. I have 3 questions. First one is, as credit cost is increasing slightly, are there any early signs of delinquency or having stress in any specific segment? And what are the outlook for the credit cost going forward? Second one is, as the company is expanding into strategic locations and expanding the sales teams to penetrate into Tier 2 dealer financing and micro-LAP, how do you plan to maintain an opex discipline? And the last one is, as we are scaling through longer-tenure products like micro-LAP and term loans, how do we expect overall portfolio churn rate to evolve?
+
+[28:49] Vinay Gupta (Chief Executive Officer):
+I'll answer one by one. On the credit cost, what you see in financials, is not a cash credit cost. This is the provisioning requirement laid down by IRAC norms and ECL norms as per Indian Accounting Standards. So today, we have accumulated maybe around INR25 crores kind of provisions in our balance sheet, which adds to our overall strength of the balance sheet, and that's the requirement of the regulator. Going forward, the credit cost, from cash perspective, the target is to maintain nil NPA. But coming to your second question, which may be linked to the first also, we are not doing micro- LAP. We are doing more than INR25 lakhs ticket size, and this is not a LAP technically, It's a business loan where otherwise we are not unable to do supply chain but believe this business can be financed, but it need to be supported by hard collateral as a security. So the objective is again, look at the entire ecosystem and cater to the demand arising on LAP kind of product.. But LAP is not going to be a rapid-pace product. This product, we have just started in Delhi NCR. We have hired specialized people who understand LAP business, but we're beginning with our journey from Delhi NCR. So far, we have disbursed only four loan against property products with a book outstanding of INR17 crores. So our objective is same as earlier: we would want to learn while doing it, and then only scale it.
+
+[30:50] Prince Goenka:
+The last one is, as we are scaling through longer-tenor products like LAP and term loans, how do we expect the overall portfolio churn rate will be evolved? Will the introduction of multiple tenure assets reduce our disbursement-to-AUM multiplier?
+
+[31:07] Vinay Gupta (Chief Executive Officer):
+The asset-liability mismatch is you are asking if I got your questions right? You know, we have INR1,600 crores equity, then on top of it, we have more than INR1,000 crores term loans. So the asset-liability mismatch is positive for us. The moment we know that the book is building long-term assets, we are building our long-term liabilities also. But let's look at from different perspective. Today, our payback period for the existing book is less than two months. By adding a loan against property, which is maybe a twoto three-year kind of an average payback period, it brings more stability to the overall AUM of the NBFC.
+
+[31:59] Moderator (Call moderator · Elara Securities):
+Thank you. The next question is from the line of Priyam Shah from Trinetra Asset Management. Please go ahead.
+
+[32:09] Priyam Shah:
+Hello.
+
+[32:10] Moderator (Call moderator · Elara Securities):
+Yes, sir, you're audible.
+
+[32:12] Priyam Shah:
+Hi. Thank you for the opportunity. Excellent set of numbers and fantastic growth that has come through the last few years. While two-third of our book is through our anchor clients and now one-third is not through the supply chain, can you just specify 30+ DPD and 60+ DPD on the remaining one-third? I think that's not been given in the presentation. Just wanted to understand the kind of collection efficiency on that book. Thank you.
+
+[32:42] Vinay Gupta (Chief Executive Officer):
+On the overall book today, 60 DPD is zero, including supply chain and non-supply chain. In non-supply chain, 30 DPD is zero. In supply chain, because of the inherent nature, the collection efficiencies start with 99.5% on less than 1 DPD, and more than 1 DPD, the collection efficiencies improves by the time the account reaches 30 DPD.
+
+[33:11] Priyam Shah:
+Right. And while you highlighted our loan book target for the next one to two years, ultimately what I wanted to understand, in the supply chain part of the book, what can be the overall realistic TAM in the next four to five years? What is the number that we're looking at?
+
+[33:29] Vinay Gupta (Chief Executive Officer):
+If I were to divide the TAM into two parts. First TAM - the 60 corporates where we are already present, So there itself the TAM is that we can double our book within their ecosystem. Hypothetically, if we were not to acquire any customer today, any anchor corporate today, we have an opportunity to double our book. Today, our wallet share, on an average across the 60 brands, is less than 5% when I look at the kind of supply chain financing has been arranged by them across all the banks and NBFCs. So doubling that wallet share from 5% to 10% is easy thing to do. But on top of it, in next one year or so, we will add another 20, 25 more brands. And from there, the new TAM will also come. We can add another 50% from that. So the problem is not the TAM; the problem is, what we want to do and what we don't want to do, because as I said, we are a very conservative lender. We don't want to lose money by building the book. We want to retain the money and achieve growth, which is more safer and secure.
+
+[34:34] Priyam Shah:
+Sure. Sure. Thank you.
+
+[34:40] Moderator (Call moderator · Elara Securities):
+Thank you. The next question is from the line of Sunil Jain from Nirmal Bang Securities Private Limited. Please go ahead.
+
+[34:48] Sunil Jain:
+Yeah. Congrats, sir, on good numbers. My two questions: the digital loan which you had started this quarter, what would be the ROA on this? Is it similar to the company, or can be higher?
+
+[35:06] Vinay Gupta (Chief Executive Officer):
+I'm sorry, I'll not be able to divulge the commercials around it. But all I can tell you, on quarteron-quarter basis, if you look at, we're maintaining 13% kind of a yield. 12.5% odd as a ROI and around 50 basis point to 70 basis point as fee income, both put together, around 13% is the yield on our overall AUM which we are maintaining. So the range may vary from 11% to 15% depending upon the risk category, and the security, and the appetite, and all. But we are maintaining 13%, and we will able to maintain this going forward also.
+
+[35:40] Sunil Jain:
+So the question was more related to provisioning. So is this provisioning coming mainly because of the disbursement in digital loan, or it's on the existing business?
+
+[35:54] Vinay Gupta (Chief Executive Officer):
+It is on overall business. INR4,500 crores was our exit AUM on Q1, INR5,700 crores is the exit AUM in Q2. INR1,200 crores incremental book, that incremental book need provisioning, which is the regulatory requirement. That's it.
+
+[36:11] Sunil Jain:
+Okay. No specific allocation for digital loan? It's more of an overall book?
+
+[36:19] Vinay Gupta (Chief Executive Officer):
+This is Expected Credit Loss norms, and we have made the provisioning as per the Indian Accounting Standards. There's no extra provisioning or buffer we have created for digital lending, and there is no delinquency-led provisioning. This is not a cash provisioning; this is a regulatory requirement provisioning.
+
+[36:39] Sunil Jain:
+Yeah, but this will continue as the book grow in proportion to the book growth.
+
+[36:44] Vinay Gupta (Chief Executive Officer):
+It will continue for all the BFSI players, including us. On INR5,700 crores today, we have our INR25 crores accumulated provisioning in the balance sheet.
+
+[36:58] Sunil Jain:
+Great, sir. Thank you.
+
+[36:59] Vinay Gupta (Chief Executive Officer):
+Thank you.
+
+[37:00] Moderator (Call moderator · Elara Securities):
+Thank you. The next question is from the line of Meet Mehta from Integrity Ventures and Partnerships. Please go ahead.
+
+[37:12] Meet Mehta:
+Yeah. Congratulations on a great set of results. I just wanted to understand the basic model of the anchor book. So as per by my understanding, we have supply stop agreements for -- with our anchor partners that we would be they would be stopping the supply in case of a default by a dealer or a distributor. So just want to reaffirm that. Is my understanding right or how the model works?
+
+[37:45] Vinay Gupta (Chief Executive Officer):
+Your understanding is absolutely right. Without the supply chain financer, an anchor corporate or an OEM, when they supply a material, they believe they have supplied the material on credit, for example, hypothetically, tomorrow if that dealer or the customer does not pay, the OEM don't keep putting the good money behind the bad money, right? So they don't supply the new material to the customer in default. The same theory applies here. The moment the credit shift from the balance sheet of OEM to a balance sheet of a financer, nothing changes. We ask the same legally binding commitment that, maybe it's not your money now, and it's lender’s money, but you need to stop supplying to customer in default.
+
+[38:27] Meet Mehta:
+Okay. And in terms of factoring and invoice discounting also, we follow the same model, right?
+
+[38:34] Vinay Gupta (Chief Executive Officer):
+No. Invoice discounting is a different ballgame. Invoice discounting is a call we take on the borrower. The borrower is good enough, can stand on their own feet, and have good amount of cash flows. So one way is when we look at the ecosystem-based financing where there's a large anchor corporate who want to have their dealer financed from a financer, or there can be a small MSME who want to leverage their cash flow visibility by borrowing invoice discounting. So for us, as a financer, we rely on the large player, whether the supplier or the buyer. Whoever is the large player between buyer and seller, we try and lean on that particular party.
+
+[39:21] Meet Mehta:
+Got it, got it. Yeah, that was my question, just, you know, wanted to have basic understanding about the model. So yeah, great set of results and all the very best for the upcoming future.
+
+[39:32] Vinay Gupta (Chief Executive Officer):
+Thank you so much, Meet.
+
+[39:34] Moderator (Call moderator · Elara Securities):
+Thank you. The next question is from the line of Akash Shrivastav from Intex Technologies. Please go ahead.
+
+[39:43] Akash Shrivastav:
+Congratulations, sir, for the great set of numbers. Sir, our finance cost as percent of interest income increased from 42% in Q1 to 44.5% in Q2. In the latest quarter, RBI increased the repo rate. So can you help me to understand that whether the increased cost of funds will impact our profitability, or are we able to pass on the cost to the customers?
+
+[40:14] Vinay Gupta (Chief Executive Officer):
+We will be able to pass on the cost if the cost goes up. As of now, the cost has not gone up. The percentage which you are seeing today, it is because of rising leverage. But if you look at our ROA tree, we are maintaining ~5% ROA. However, coming to your question, the timing may vary, but the cost shall be passed on, because majority of all our loans are linked to a benchmark, which is our SGFL benchmark rate. We have not increased the benchmark as of now. Repo has gone up. The repo may translate into our average cost of borrowing going up or it may not, because our rating also got upgraded to a AA-, which used to be A+ a quarter back. It may translate, it may not translate into rising borrowing cost. But if it translate, probably we may want to revisit our benchmark rate. Akash Shrivastav Okay. But it will not impact the profitability, that can much I can assure you. Akash Shrivastav Okay, okay. Means our full-year guidance of INR225 crores of PAT is still intact? Maybe we may end up doing slightly better than that. Akash Shrivastav Okay, okay. Thank you, sir. Thank you.
+
+[41:36] Moderator (Call moderator · Elara Securities):
+Thank you. The next question is from the line of Vipul Lamba from EVK Logistics. Please go ahead.
+
+[41:52] Vipul Lamba:
+Vinay ji, one more thing. You had a board approval for AIF. Any near-term plans for that?
+
+[41:53] Vinay Gupta (Chief Executive Officer):
+We have filed the application to SEBI. We are waiting for the approval. Once the approval is there, we will launch it. As the thing stand today, we have incorporated the company, filed the application, waiting for the SEBI approval.
+
+[42:09] Vipul Lamba:
+And this AIF would be like normal asset management, equity investments, or that will be very, very different?
+
+[42:22] Vinay Gupta (Chief Executive Officer):
+It will be Cat III equity-based AIF. But the role of SG Finserve is only to enable this. We are going to operate the AMC and generate fee out of it. The objective of SG Finserve is to generate fee out of the equity which will be managed by CIO under the AIF.
+
+[42:38] Vipul Lamba:
+Okay. So that will be another line of business, right, which will be asset management?
+
+[42:46] Vinay Gupta (Chief Executive Officer):
+No, asset management not from the mutual fund perspective. I was talking about AIF only. Because the AIF the way we have structured, we have an asset management company as a wholly owned subsidiary of SG Finserve, whose job is to manage and not invest own funds. We are not deploying too much equity into the AIF. AIF is only a fees generating avenue for us.
+
+[43:07] Vipul Lamba:
+No, no, of course. You will raise it from the public to invest. Like an AIF any other asset management company is running, right?
+
+[43:15] Vinay Gupta (Chief Executive Officer):
+Right.
+
+[43:16] Vipul Lamba:
+It will be similar to that, correct?
+
+[43:19] Vinay Gupta (Chief Executive Officer):
+Yes.
+
+[43:19] Vipul Lamba:
+And if, and it is I mean by when, within this year you expect that this business line to start?
+
+[43:26] Vinay Gupta (Chief Executive Officer):
+This year looks difficult because we are waiting for the approval. After the approval is there, then we have to identify the right set of people who will run this business. I don't have the capacity and capability to run the AIF, or none of my other team members have. It will be a separate, independent team. Once the team is identified, then there will be processes and policies which need to be laid down, and then the commercialization and operation will start. See, Vipul, we are not in a hurry to do any business. From a long-term perspective, this is going to complement our presence in the market as an NBFC. But this may get delayed because this is not our core business. This is more of a business from a future-readiness perspective.
+
+[44:06] Vipul Lamba:
+Got it. Okay, thank you.
+
+[44:19] Vinay Gupta (Chief Executive Officer):
+Thank you.
+
+[44:19] Moderator (Call moderator · Elara Securities):
+Thank you. The next question is from the line of Akhilesh Kumar, an individual investor. Please go ahead.
+
+[44:20] Akhilesh Kumar:
+Hi, Vinay. I wanted to know about the recent RBI draft circulation or notifications on the NBFC on the revolving credit thing. How we are prepared for that, and have we done any consultation with the RBI? And how prepared are that? Like say, in case if it happens, and our two-thirds loan book is on supply chain financing.
+
+[44:51] Vinay Gupta (Chief Executive Officer):
+I was waiting for this question, Akhilesh and thanks for asking. RBI guidelines currently are in draft form. Whatever discussions we have had directly, or indirectly with RBI, we submitted our presentation also, I believe the intention of regulator is that NBFCs should only do term-based business, and supply chain by nature is a term-based business. We are not allowing extension, or rollover of any of our facilities. Every loan is backed by a separate underline with identifiable repayment schedule. The way the draft guidelines are worded, if it were to come into force as final guidelines, we are ready because we are not doing anything which anyways is prohibited by RBI. Only thing which will happen, probably we will need to tweak certain documentation and the systems so that the reporting to the credit bureaus and the documentation with the client can become more digital and real-time instead of doing at a principle-level limit setups. That's the only thing which changes. But fundamentally, we are not doing OD as a product, we are not doing demand loans or call money kind of a products. We are doing term-based, tenorbased financing. For example, if we have given a loan for 60 days, the money has to come on 60 days or before. On 61st day, the loan will be reported as overdue. And there's no extension, there's no rollover. And hence, it takes care of regulator ask.
+
+[46:13] Akhilesh Kumar:
+So, like say what RBI says, on 60 days if he needs again another supply chain financing, so we will be doing again a fee-based evaluation of their creditworthiness before issuing a further one? What RBI is asking, once a term gets over, re-evaluate everything.
+
+[46:36] Vinay Gupta (Chief Executive Officer):
+It’s a sensitive subject. But all RBI is asking, if a loan has been given for 60 days, the money has to come in 60 days. If the guy need more money, we evaluate it again, and we give him money again. But the money which already given, that money has to come back.
+
+[46:57] Akhilesh Kumar:
+Okay, got it. But we are very prepared, like in case worst-case scenario, we are not finding any interruption for months, or say like say, losing a client, right?
+
+[47:11] Vinay Gupta (Chief Executive Officer):
+No. As a matter of fact, we are aligned with the regulator. Only minor corrections here and there need to be done. But fundamental product nuances and the way it is functioning, it is functioning as per their guideline. Today, when we are doing INR16,000 crores disbursement or a INR30,000 crores annualized disbursement, this INR30,000 crores is not one way. Look at the number. If INR5,700 crores is the book and INR30,000 crores is the annual disbursement, it means INR25,000 crores money is coming to us first.
+
+[47:41] Akhilesh Kumar:
+Okay, got it.
+
+[47:44] Vinay Gupta (Chief Executive Officer):
+So churning is happening.
+
+[47:45] Akhilesh Kumar:
+Yeah, I also think that supply chain finance is totally different than what retail OD facilities by provided by other NBFCs. So, RBI should not be stopping this. Okay, I agree with that.
+
+[47:57] Vinay Gupta (Chief Executive Officer):
+RBI has never stopped any genuine business, and I believe so they will not stop this genuine business also.
+
+[48:04] Akhilesh Kumar:
+Yes, yeah. And I have few more things too. Like say, recently you have started digital lending, and you said that you have more than 10,000 loans you have disbursed. So, what kind of customers you are acquiring there? Like they are again the supply chain financing, like say, or a different kind of customers there?
+
+[48:24] Vinay Gupta (Chief Executive Officer):
+There are two ways to look at it. If I were to look at from a lens of anchor and the spoke, these are the people who are availing services from BharatPe. So yes, all the checks of our supply chain, the anchor, the service provider, and the service consumer, all are available here as well. However, the typical buy-sale of goods which generally happen between OEM and dealer, that something is not here. So, from that lens, we can say it's an ecosystem, but not a traditional supply chain. So, these are merchants who are using BharatPe QR code for their day-to-day operations and collecting the money using UPI.
+
+[49:04] Akhilesh Kumar:
+Okay, but they are also we are ring-fencing ourselves our money the way we do here in the supply chain financing, right, by their goods or orders invoicing kind of thing, right?
+
+[49:15] Vinay Gupta (Chief Executive Officer):
+Slight difference would be there from product to product. However, the fundamental of our anchor-led model is there, fundamental of our cash flow-based, churn-based repayments is there, the safeguarding mechanism, whether in form of FLDG or in-built cushions, are there. So in a way, it's an ecosystem-based, cash flow-based financing led by an anchor LSP.
+
+[49:46] Akhilesh Kumar:
+Okay. Yes. So, the very, like say, large part of the growth in this quarter, was it because of those digital lending, or it was a growth across all the channels what we have?
+
+[50:02] Vinay Gupta (Chief Executive Officer):
+For us, all engines fired together in Q2. We managed to scale factoring, digital lending, and supply chain everything has gone up. Specifically on digital lending, our book was only INR121 crores on 30th September. So no, digital lending has not contributed meaningfully. Although the count is about 10,000 loans, but the ticket size is low. It's a good humble beginning for us because we wanted to enter into digital lending. But from a book growth perspective, so far, it has not contributed that meaningfully.
+
+[50:37] Moderator (Call moderator · Elara Securities):
+Thank you. The next question is from the line of Divyesh Trivedi from Omega Portfolio Advisors. Please go ahead.
+
+[50:48] Divyesh Trivedi:
+So that's on the borrowing side, what is your breakdown of your borrowings across banks, NCDs, and other instruments?
+
+[50:58] Vinay Gupta (Chief Executive Officer):
+Our single source of borrowing is from banks and NBFCs. As Anubhav alluded during the initial part of the call, given our group’s pedigree, we have relationship with large set of banks and NBFCs, and we leverage that relationship. Today, we have a relationship with 19 banks and NBFCs in the country. And all these 19 banks and NBFCs have given us financing either in form of working capital or term loans. Small bit, on opportunistic basis, we do commercial paper also. Our cost of borrowing is around 8%. That is something unheard for NBFCs of our size and scale.
+
+[51:43] Divyesh Trivedi:
+Yeah. Okay, thank you.
+
+[51:45] Vinay Gupta (Chief Executive Officer):
+Thank you.
+
+[51:47] Moderator (Call moderator · Elara Securities):
+Thank you. The next question is from the line of Amit Jain, an Individual Investor. Please go ahead.
+
+[51:58] Amit Jain:
+Yeah. Thanks for the opportunity, sir. My question has been answered. Thank you.
+
+[52:02] Vinay Gupta (Chief Executive Officer):
+Thank you, Amit.
+
+[52:04] Moderator (Call moderator · Elara Securities):
+Thank you. The next question is from the line of Daljit Singh, an Individual Investor. Please go ahead.
+
+[52:13] Daljit Singh:
+Good evening, sir.
+
+[52:18] Vinay Gupta (Chief Executive Officer):
+Good evening, Daljit.
+
+[52:18] Daljit Singh:
+Sir, banks generally offer loans at much lower interest rate than we offer on supply chain financing. I want to understand why a customer would choose to borrow from us instead of going to a bank. And what prevents banks from taking away our anchor or customers?
+
+[52:40] Vinay Gupta (Chief Executive Officer):
+Daljit, there is a coexistence model across all the banks and NBFCs. So, let's divide the universe into four parts: the PSU banks, private banks, large NBFCs, and mid-layer NBFCs. I think each financier from different buckets have their own appetite, and the borrower's ability to reach a particular cohort is also limited or may not be there. So, any borrower, if you ask me a question, if any borrower can borrow from the bank as much as much they need, would they come to us? Of course, they will not come to us. But what the data shows, and that's the real reason of our existence, the data shows a borrower need INR100, he or she managed to get only INR80 or INR90 from the banks and NBFCs. For the remaining INR10, INR20 untied portion, they come to us. And today, there are lakhs of MSME borrowers, but we are only banking with 800. So, we are not saying everybody will come to us. We are only saying those who need money more than what they have already got from the other banks and NBFCs, they can come to us. We're doing multiple banking for those set of borrowers who have already availed the financing from other banks and NBFCs, but that financing is not sufficient.
+
+[54:01] Daljit Singh:
+Okay, sir. I can understand your point very well. Sir, there is one more thing I want to ask. Sir, down the line, this business, supply chain financing, is a very attractive business: very low operating cost, very low NPAs. Down the line 5 years, 6 years, how much contribution do you think will be coming from supply chain financing and how much from other financing we are planning to do?
+
+[54:28] Vinay Gupta (Chief Executive Officer):
+We would want to remain supply-chain-focused NBFC. Two-third of our AUM, at least in next 2 years to 3 years, we plan to be around supply chain only.
+
+[54:43] Daljit Singh:
+Okay. Thank you very much, sir.
+
+[54:49] Moderator (Call moderator · Elara Securities):
+Thank you. The next question is from the line of Shubham Singhla an Individual Investor. Please go ahead.
+
+[54:57] Shubham Singhla:
+Yeah. Hello, sir. Am I audible?
+
+[55:00] Moderator (Call moderator · Elara Securities):
+Yes, you are.
+
+[55:01] Vinay Gupta (Chief Executive Officer):
+You can be a little louder, Shubham, but yes, audible.
+
+[55:04] Shubham Singhla:
+Yeah. So congrats, sir, Vinay sir, and your team. Excellent execution, right? I have basically two questions. One, from a five-year perspective, right? What is the long-term vision of your company, right? I’m asking a vision which maybe you discuss with your board members, right? Or with the promoter group. Where do you want to see this company, right? The second question is the INR10,000 crore AUM guidance or the target that maybe you have set up for yourself and your team, right? When are we planning to achieve that? What is that exact year that maybe you are targeting that target? So those are the two questions.
+
+[55:45] Vinay Gupta (Chief Executive Officer):
+Maybe 2 years to 3 years is the target for us to reach INR10,000 or INR11,000 kind of number. It's all projections and the assumptions we are making, because earlier we were thinking of achieving only INR5,500, but our business got front-loaded and we managed to achieve INR5,700 crores at Q2 end itself. But coming back to a five-year kind of horizon, we want to be a full-fledged financial institution in the country providing services across the spectrum of debt, equity, AI-enabled lending. That's why, the small steps we are taking in building an AIF, ARC, AI-based technology, GIFT City, etc. from a long-term perspective. Standalone from the NBFC perspective, we would want to recalibrate our thoughts after we reach INR10,000 crores. So today, we are not looking beyond INR10,000. Our eyes are set on INR10,000 to INR11,000 crores kind of AUM in the next 2 to 3 years, and as we move closer to that target, we will calibrate another 2 years to 3 years from thereon.
+
+[57:00] Shubham Singhla:
+Okay. Makes sense, sir. Sir, just a follow-up, right? How are you preparing for that change? Like any management expansions, any tech expansions that you are planning? For AIF, as you mentioned, right, it will need a completely separate team. So, what else what are we doing to prepare for that front? How do we become a full-fledged NBFC from a management point of view, from a skill point of view? How are we preparing for that?
+
+[57:32] Vinay Gupta (Chief Executive Officer):
+Each business will have independent team. NBFC will remain as a parent to orchestrate that kind of a setup, provide equity, provide cross-sell opportunity, do a cross-referral lead kind of a handholding. But new businesses we are entering need regulatory approvals, licensing. At right time, we will hire people for respective businesses. For example, AIF, you specifically asked, we already hired a compliance head specifically who understand the compliances around AIF. CIO probably we will hire when we are closer to the license. Other operating team, we will hire on need basis. So, all hirings for us are need-base, independent for each separate business.
+
+[58:27] Shubham Singhla:
+Okay. Makes sense, sir. Thank you for your responses and best of luck for your future. Thank you, sir.
+
+[58:37] Moderator (Call moderator · Elara Securities):
+Thank you. Next, we have a follow-up question from Akhilesh Kumar, an Individual Investor. Please go ahead.
+
+[58:45] Akhilesh Kumar:
+Vinay, I have one last query. Over the quarters, I am observing that your previous quarter's closing loan book becomes the average of the coming quarter even though we end up with -- say, 10%-20% higher loan book at the end of the quarter. Say for this quarter, we have average loan book of INR4,600 crores, but our closing loan book is INR5,600 crores. So why it happens? From previous quarter, it was -- say, closing INR4,500 crores. So, everything growth happens at the end of the quarter, or in the middle of the quarter, we have wild fluctuation?
+
+[59:25] Vinay Gupta (Chief Executive Officer):
+The closing book becomes average for the next quarter. This is a very good problem to have, because book buildup happened throughout the quarter. Within the quarter, more businesses happen towards the month-ends because of natural alignment of businesses and teams. But the good thing is that, whatever we're closing at quarter end, we're maintaining that book. So, these are not one off transactions happening at quarter ends and then fizzling out. We're maintaining the book built and building further on top of it.
+
+[01:00:06] Akhilesh Kumar:
+Okay. Fine. So that should be continuing. And this quarter's growth will be front-loaded. As you said, it was front-loaded, so our expectations for the subsequent quarters should be say, little subdued, right? Like say the normal one growth, not the extra normal this quarter we had.
+
+[01:00:26] Vinay Gupta (Chief Executive Officer):
+It is expected to be normal because we front-loaded few things in Q2. But, we don't look at future from the past. We look at future from present. We are envisaging 30% to 35% AUM growth on a 12 month forward basis from the present.
+
+[01:00:57] Akhilesh Kumar:
+Okay, that makes sense. Thanks, Vinay, for a lot of clarity and good information. I think I have few questions, but I will drop that email for that, what is there in PPT, and get response. Thanks Anubhav also, and thanks Vinay for the response.
+
+[01:01:17] Moderator (Call moderator · Elara Securities):
+Thank you. Ladies and gentlemen, we'll take this as the last question for today. I would now like to hand the conference over to the management for the closing comments.
+
+[01:01:27] Vinay Gupta (Chief Executive Officer):
+Thank you, everyone, for joining us today. Thank you, team Elara, for hosting us. SG Finserve is among approximately 1% NBFCs in the country who are doing supply chain finance, or factoring, or TReDS, or digital lending. So we have created niche for ourself. The kind of products we do are scalable, sustainable, low on opex, and low on credit cost, and we would want to build our franchise around these products. Today, 70% of our business is around this business, and we plan to maintain that going forward. We plan to maintain, return on asset more than 4.5%, that's what we are maintaining from last four quarters. Return on equity is inching up as our leverage is improving and we see a bright future ahead for us. Thank you so much for joining us today.
+
+[01:02:34] Moderator (Call moderator · Elara Securities):
+Thank you. On behalf of Elara Securities India Private Limited that concludes this conference. Thank you for joining us and you may now disconnect your lines.
